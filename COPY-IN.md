@@ -29,6 +29,25 @@ Lectura objetiva:
 
 ---
 
+## Copy-in humor confesional — 10 opciones
+Estado: PROPUESTA (2/9)
+Registro: humor confesional. La primera parte te deja mal parado, la segunda lo da
+vuelta. Mismo mecanismo que "Siempre tarde, nunca mal vestido".
+
+1.  "No tengo plata para tendencias. Tengo para basicos buenos."
+2.  "Me compro un abrigo por año. Y lo defiendo con la vida."
+3.  "Toda mi ropa es del mismo color. Es una decision, no un problema."
+4.  "Vivo en el mismo pantalon. Pero es un buen pantalon."
+5.  "Tardo cinco minutos en vestirme porque lo pense toda la semana."
+6.  "Nunca sobra plata. Siempre alcanza para el zapato."
+7.  "No es que combine todo. Es que compro poco."
+8.  "Repito outfit. Se llama criterio."
+9.  "Me visto simple para que se note la unica prenda cara."
+10. "Cambio de humor, no de estilo."
+
+Nota: 1, 6 y 9 hablan de plata. Es lo que mas engancha en el publico de la cuenta
+— casi nadie habla de comprar con presupuesto real.
+
 ## Copy-in estilo frase de actitud — 7 opciones
 Estado: PROPUESTA (2/9)
 Referencia de estilo dada por Jesu: "Siempre tarde, nunca mal vestido."
