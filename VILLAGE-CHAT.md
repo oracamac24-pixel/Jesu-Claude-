@@ -72,9 +72,21 @@ dejar los transcripts. Por eso el script busca en las tres carpetas, no solo en
 Si `-Listar` no devuelve nada, entonces no hay copia local y lo único que queda
 es el historial de la app de Claude, navegado por vos desde la computadora.
 
-## Qué hago yo después
+## Qué se recuperó
 
-Corré el script y subí el `.md` a este repo (o pegámelo acá). Con eso lo limpio,
-lo ordeno por temas y armo el calendario de septiembre de Village, que según el
-relevamiento del 2/9 nunca se bajó a Drive: en Drive solo está
-`VILLAGE ABRIL 2026.xlsx`.
+El plan completo de septiembre **ya está recuperado**, en
+`VILLAGE-PLAN-SEPTIEMBRE.md`. No salió del chat sino del artefacto
+**"Calendario Sastrería Septiembre"**
+(`claude.ai/code/artifact/926ea839-9af7-4db4-a6b3-ffe231a3c979`, actualizado el
+27/8/2026, el mismo día que arrancó ese chat). Ese artefacto es la salida de esa
+conversación: los dos carriles, los 4 reels con guion punteado, el framework de
+stories, el embudo de ads de 3 etapas, el calendario del mes y las notas abiertas.
+
+Lo que sigue sin recuperarse es la conversación en sí — el ida y vuelta, las
+decisiones descartadas, lo que se haya hablado después del 27/8 y no haya quedado
+en el artefacto. Para eso sirve el script de arriba.
+
+Corrección al relevamiento del 2/9: ahí quedó anotado que "lo que se planificó en
+ese chat nunca se bajó a Drive". Es cierto para Drive —solo está
+`VILLAGE ABRIL 2026.xlsx`— pero no era cierto que se hubiera perdido: estaba en
+el artefacto.
