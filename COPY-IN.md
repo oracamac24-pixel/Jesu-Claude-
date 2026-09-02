@@ -29,6 +29,26 @@ Lectura objetiva:
 
 ---
 
+## Carrusel mocasin + gorra — 7 copy-in
+Estado: PROPUESTA (escritos el 2/9, NO son los 7 aprobados que se perdieron)
+Formato: carrusel de feed, fotos propias
+
+1. "Mocasin con gorra. La mezcla que casi nadie se anima."
+2. "Regla simple: si el zapato es formal, lo de arriba va relajado. Los dos formales te disfrazan."
+3. "Logo chico funciona. Logo grande te viste de vidriera."
+4. "Media fina y a la vista. El mocasin sin media es verano, y no estamos en verano."
+5. "El pantalon rompe apenas arriba del zapato. Si tapa el empeine, perdiste el mocasin."
+6. "El mocasin se ve mejor usado que nuevo. Compra el que puedas gastar, no el que tengas que cuidar."
+7. "Con mocasin, el tiro sube. Tiro bajo con este zapato te acorta la pierna."
+
+Caption:
+"El mocasin no es solo para vestirse bien. Es la pieza que mas rapido sube un outfit
+simple — si sabes con que mezclarlo. Guardalo para cuando dudes."
+
+Nota: el 6 y el 7 son los mas discutibles, deberian traccionar comentarios.
+Pendiente: ajustarlos a cada foto cuando esten las imagenes.
+
+---
 ## Frases de debate (banco suelto, de Drive)
 Estado: SIN USAR — sirven como hooks, no como copy-in
 - "Vestir caro no te da estilo."
