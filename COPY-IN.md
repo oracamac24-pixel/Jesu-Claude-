@@ -29,6 +29,25 @@ Lectura objetiva:
 
 ---
 
+## Copy-in estilo frase de actitud — 7 opciones
+Estado: PROPUESTA (2/9)
+Referencia de estilo dada por Jesu: "Siempre tarde, nunca mal vestido."
+Registro: frase corta, con contradiccion o vuelta de tuerca. Actitud, no instruccion.
+
+1. "Nunca a la moda, siempre bien vestido."
+2. "No sigo tendencias. Las espero."
+3. "Compro poco. Uso todo."
+4. "Sin logo. Se nota igual."
+5. "El mismo abrigo hace tres inviernos. Y sigue ganando."
+6. "Prefiero repetir antes que improvisar."
+7. "Si dudo, no lo compro."
+
+Como funciona el registro:
+- La estructura base es la contradiccion: admitis algo en contra y lo das vuelta
+  en la misma frase (1, 2, 5).
+- Las secas (3, 4, 7) sirven para cortar el ritmo en el medio del carrusel,
+  para no encadenar siete remates seguidos.
+
 ## Carrusel mocasin + gorra — 7 copy-in
 Estado: PROPUESTA (escritos el 2/9, NO son los 7 aprobados que se perdieron)
 Formato: carrusel de feed, fotos propias
