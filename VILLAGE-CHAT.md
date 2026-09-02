@@ -34,6 +34,51 @@ mandarle lo que escribas. Por eso el cuadro de texto no responde.
 dejá que el puente se reconecte. Cuando la sesión pase de "desconectada" a
 "conectada", el chat vuelve a aceptar mensajes.
 
+## Clave: se puede LEER, no se puede ESCRIBIR
+
+Según la documentación de Remote Control: mientras la sesión estuvo conectada,
+**el transcript completo quedó guardado en los servidores de Anthropic** —tus
+mensajes, las respuestas y la actividad de herramientas— para mantener la
+conversación sincronizada entre dispositivos. La ejecución y el acceso a
+archivos son los únicos que se quedan en tu máquina.
+
+Por eso el chat se ve entero desde el celular o desde claude.ai/code aunque la
+computadora esté apagada. Lo que necesita la computadora es **generar respuestas
+nuevas**: ahí corre Claude. Sin ella, se lee pero no se contesta.
+
+**Consecuencia práctica:** para recuperar lo escrito NO hace falta prender nada.
+Abrí el chat, buscá lo que necesites y copialo. Solo hace falta la computadora si
+querés seguir conversando adentro de ese chat.
+
+## Cómo reconectarlo (si querés volver a escribir ahí)
+
+La ventana de `claude remote-control --session-id <id>` es de unas 4 horas
+desde que se cortó el servidor. El corte fue el 1/9 a las 18:16, así que esa vía
+ya venció.
+
+Esta sesión se creó con `claude --remote-control` o `/remote-control` (figura
+como `origin: claude_code_cli`). Para esas, el camino es reanudar la conversación
+en la computadora, en la misma carpeta donde se trabajó:
+
+```powershell
+claude --continue     # o: claude --resume  y elegirla de la lista
+```
+
+Si engancha, Claude Code se reconecta solo a la sesión de claude.ai que tiene
+registrada. Si tira `Couldn't reconnect to your Remote Control session`, se
+reintenta desde adentro con:
+
+```
+/remote-control
+```
+
+Si en cambio dice que la sesión anterior no está disponible, arranca una nueva
+**sin los mensajes viejos** — pero los viejos siguen estando del lado del
+servidor, en el chat original.
+
+Requisito previo: que Claude Code esté instalado en la máquina. La sesión
+"Control remoto conexión teléfono-computadora" quedó trabada justamente ahí.
+
 ## Por qué no puedo bajarte el Markdown yo
 
 No tengo ninguna herramienta que lea el contenido de otra sesión. Lo verifiqué
