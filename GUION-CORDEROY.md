@@ -104,3 +104,25 @@ haya corderoy disponible antes de decirlo.
 La pregunta final —"¿Cuál sos: obrero, profesor o rockstar?"— sí funciona
 perfecto para el carril orgánico: es motor de comentarios, que es el KPI de ese
 carril. Alcanza con cerrar ahí y soltar la línea de stock.
+
+---
+
+## Versión final de edición (2/9/2026)
+
+Jesu ya grabó y no puede regrabar. La versión que va al aire se arma **solo con
+cortes** sobre el audio existente. Dos cortes en el bloque del nombre:
+
+1. Sacar las palabras **"Unos fabricantes franceses"**. La frase queda
+   `"Inventaron que venía de corde du roi, la cuerda del rey."` — impersonal,
+   sin atribuir el invento a los franceses. Correcto y sin regrabar.
+2. Sacar la frase completa **"Nunca existió un papel que lo probara."**
+
+Resultado del bloque: *"El nombre, en cambio, es puro marketing. Inventaron que
+venía de corde du roi, la cuerda del rey. Le armaron un origen de realeza para
+venderla más cara."*
+
+Ventaja sobre el plan anterior: el nombre queda dicho en el audio, así que la
+placa de texto con `corde du roi` pasa a ser opcional.
+
+Nota: en la grabación dice "la cuerda del rey". Si se prefiere "cordón del rey",
+va en placa, no en audio.
