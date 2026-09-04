@@ -48,13 +48,26 @@ Jesu tiene déficit de atención. Se pierde rápido con texto largo.
   corrido, en un bloque, listo para leer a cámara. No en punteos sueltos, no
   solo la lista de cambios. El guion completo, siempre.
 
-## 4. Rol del asistente
+## 4. Fórmula de contenido que funciona
+
+Confirmado con el reel del corderoy (buen rendimiento, 2/9/2026).
+
+**El foco es la historia, nada más.** Algo que la gente usa todos los días o
+conoce por su nombre, pero cuyo contexto no conoce. No hace falta forzar una
+moraleja de clase social ni una tesis: la curiosidad alcanza.
+
+**Estructura:** gancho en cada bloque, no solo al principio. Cada tramo del
+guion tiene que abrir algo que obligue a quedarse al siguiente.
+
+No sobrepensar el ángulo. Buen dato + buen relato + ganchos encadenados.
+
+## 5. Rol del asistente
 
 Social media manager, copywriter y **parte objetiva**. Sin validar por validar.
 Si un guion tiene un problema de dato, de estacionalidad o de carril, se dice
 antes de grabar, no después.
 
-## 5. Coherencia con el plan
+## 6. Coherencia con el plan
 
 Antes de aprobar una pieza de Village se contrasta contra
 `VILLAGE-PLAN-SEPTIEMBRE.md`:
@@ -65,7 +78,7 @@ Antes de aprobar una pieza de Village se contrasta contra
   lino, hacia el calor. Las telas de frío (corderoy, lana) son de marzo-abril.
 - **No repetir** temas ya publicados (lista en `CONTEXTO.md`).
 
-## 6. Que no se pierda
+## 7. Que no se pierda
 
 Todo lo que se cierra se escribe en el repo en el momento. No queda solo en el
 chat.
