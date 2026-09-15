@@ -44,3 +44,32 @@ Según `CONTEXTO.md` este es el formato que más guardados genera.
 **Ojo con las leyendas.** Varios de estos temas arrastran historias muy
 repetidas y falsas (Napoleón y los botones de la manga, el rey que engordó y el
 último botón). Verificar antes de escribir, siempre.
+
+## Cambio de estación / cambio de material
+
+**"No tenés calor por el clima. Tenés calor por la tela."**
+
+Ángulo: cambiar de temporada no es cambiar de ropa, es cambiar de material. La
+misma camisa, el mismo pantalón y el mismo saco existen en versión invierno y
+verano — lo que cambia no es el corte, es la fibra. Y casi nadie lo mira al
+comprar.
+
+Posibles beats:
+- Gancho: no transpirás por el clima, transpirás por la etiqueta.
+- El criterio: la fibra natural respira, la sintética no. El porcentaje manda.
+- Qué sí en calor: lino, algodón, mezclas altas en natural.
+- Qué no: poliéster alto, sobre todo en camisa de vestir.
+- El detalle que nadie mira: el forro del saco. Un saco de verano puede venir
+  sin forro o con forro parcial, y esa sola diferencia cambia todo.
+- Cierre: no cambies de ropa, cambiá de tela.
+
+**Por qué sirve:** es utilidad de compra pura, que es el formato que más
+guardados genera, y cae justo en la transición a primavera-verano.
+
+**Ojo con la superposición:** el plan de septiembre ya tenía un reel de "cómo
+leer la etiqueta" en la semana 4, que nunca se hizo. Es la misma veta. O se
+fusionan en uno solo, o este toma el ángulo estacional y el otro queda muerto.
+
+**Sin verificar todavía.** Antes de escribir hay que chequear qué se puede
+afirmar sobre transpirabilidad de fibras naturales vs sintéticas: es de esas
+cosas que "todo el mundo sabe" y conviene tener fuente.
