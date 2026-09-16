@@ -10,6 +10,10 @@
 
 > Cinco segundos y sabés si un saco es tuyo. Ni te lo pruebes entero.
 >
+> Porque todos hacemos lo mismo en el probador: subimos los brazos, nos
+> movemos, cerramos el botón, lo abrimos. Parece que lo estás probando para una
+> pelea de artes marciales. Y no te dice nada.
+>
 > Mirate de costado. La costura del hombro tiene que terminar justo donde
 > termina tu hombro.
 >
@@ -20,7 +24,7 @@
 >
 > Guardalo para la próxima vez que estés en un probador.
 
-Duración: ~20 segundos.
+Duración: ~30 segundos.
 
 ### Por qué quedó así
 
@@ -44,9 +48,19 @@ Cinco versiones descartadas antes de esta. Lo que las tumbó, en orden:
 vez que se le agregó marco —premisa, escena, enumeración— se volvió más largo y
 menos útil. Se sostiene con una sola regla dicha una sola vez.
 
+**Lo único que sí sumó fue humor, no información.** El tramo del probador salió
+de Jesu. Sirve porque es observación compartida y actuable a cámara, y porque
+es "todos hacemos" y no "vos hacés": chiste, no reto. Anotar para los próximos:
+cuando un guion de utilidad queda seco, lo que le falta no es más dato — es una
+escena que el que mira ya vivió.
+
 ## Qué necesita la grabación
 
 - **Un saco**, puesto.
+- **El tramo del probador, actuado.** Dos o tres movimientos exagerados y
+  corte. Cuanto más ridículo, mejor funciona el contraste con el "mirate de
+  costado" que viene después. Idea de Jesu, y es el único momento entretenido
+  del reel: sin esto es solo un dato.
 - **Plano de costado** con la costura del hombro a la vista. Es el plano que
   sostiene todo el reel: si no se ve, no se entiende.
 
