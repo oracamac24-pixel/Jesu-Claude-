@@ -8,36 +8,32 @@
 
 ## Guion corrido
 
-> Estos dos sacos dicen el mismo talle. Uno me queda bien, el otro no. Y lo
-> que decide no es el número: es el hombro.
+> Todo en un saco se arregla. Menos una cosa.
 >
-> Porque el largo de la manga se arregla. El cuerpo se entalla. El largo del saco se
-> sube. Todo eso lo hace cualquier sastre y sale poco.
+> La manga se acorta. El cuerpo se entalla. El largo se sube. Todo eso lo hace
+> cualquier sastre y sale poco.
 >
-> El hombro no. Es la modificación más cara y más compleja que existe: hay que
-> abrir la costura, descoser la manga y rehacer la pieza entera. La mayoría de
-> los sastres ni te la toma.
+> El hombro no. Para tocarlo hay que abrir la costura, descoser la manga y
+> rehacer la pieza entera. Es el arreglo más caro que existe, y la mayoría de
+> los sastres ni te lo toma.
 >
-> Así que el hombro se compra, no se arregla.
+> Así que el hombro no se arregla: se compra.
 >
-> Y se mira en cinco segundos, de costado: la costura tiene que morir justo
+> Y se mira de costado, en cinco segundos. La costura tiene que morir justo
 > donde termina tu hombro. Si cae acá, sobre el brazo, te queda grande. Si te
-> queda para adentro, chico. Y si se te forma este pliegue debajo, ya está, no
-> es tu talle: esa arruga no se va nunca.
+> queda para adentro, chico. Y si se forma este pliegue debajo, no es tu talle:
+> esa arruga no se va nunca.
 >
-> Con esto no comprás mal nunca más. Guardalo para el día que te lo pruebes.
+> Probátelo de costado antes de mirarte de frente. Guardalo para la próxima vez
+> que estés en un probador.
 
 ## Qué necesita la grabación
 
-- **Dos sacos de marcas distintas con la misma etiqueta de talle.** Uno que le
-  quede bien y uno que no. Separarlos al llegar al local, antes de grabar.
-- **Si no hay dos marcas en el local:** dos cortes distintos de la misma marca
-  (slim y regular), y la primera línea pasa a ser *"Estos dos sacos son el
-  mismo talle de la misma marca. Cortes distintos. Uno me queda, el otro no."*
-- **Plano de costado** para la parte de la costura del hombro. Es el plano que
-  sostiene todo el reel: si no se ve, no se entiende.
-- **Mostrar el pliegue** debajo del hombro en el saco que no va. Es la prueba
-  visual.
+- **Un saco que le quede bien**, puesto.
+- **Plano de costado** para la costura del hombro. Es el plano que sostiene
+  todo el reel: si no se ve, no se entiende.
+- **Para el pliegue:** un saco grande, mostrado como ejemplo de lo que no va.
+  Se dice "así se ve cuando te queda grande", no "este es mi talle".
 
 ## Chequeo de datos
 
@@ -47,18 +43,24 @@
 | Rehacer el hombro exige abrir costura y descoser la manga | ✅ Es reconstrucción de la pieza, no un ajuste |
 | Muchos sastres no toman el arreglo de hombro | ⚠️ Cierto como práctica común; se dice como criterio, no como estadística |
 | La costura debe terminar donde termina el hombro | ✅ Criterio de calce estándar |
-| Dos sacos con la misma etiqueta de talle pueden calzar distinto | ✅ Solo entre marcas distintas, o entre cortes/construcciones distintas de la misma marca |
-
-**Corrección del 16/9.** La primera versión decía "estos dos sacos son del
-mismo talle" mostrando dos sacos de la misma marca. Jesu lo frenó: mismo
-modelo, misma marca y mismo talle tienen que calzar igual — si no, es falla de
-fábrica, no un dato. Corregido a "dicen el mismo talle", con dos marcas
-distintas. Además suma gancho: la etiqueta dice lo mismo y el saco no es el
-mismo.
 
 No hay en este guion ninguna afirmación histórica ni numérica. Ese es
 justamente su valor: es criterio propio y demostración física a cámara. No
 depende de fuente externa.
+
+## Descartado — la premisa de los dos sacos
+
+La primera versión abría con *"estos dos sacos son del mismo talle, uno me
+queda bien y el otro no"*. Jesu la frenó dos veces, con razón:
+
+1. Mismo modelo, misma marca y mismo talle tienen que calzar igual. Si no, es
+   falla de fábrica, no un dato de contenido.
+2. Intenté salvarla llevándola a dos marcas distintas. Peor: ese es otro tema
+   (el del talle M), no suma al hombro y desvía el foco.
+
+**Lo que quedó:** el reel nunca necesitó dos sacos. El valor es uno solo — el
+hombro es lo único que no se arregla — y el gancho sale de ahí, no de un
+artificio.
 
 ## Carril
 
