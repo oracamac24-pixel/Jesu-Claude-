@@ -8,24 +8,51 @@
 
 ## Guion corrido
 
-> Todo en un saco se arregla. Menos una cosa.
+> Te probás un saco, te mirás de frente, y ahí ya te equivocaste.
 >
-> La manga se acorta. El cuerpo se entalla. El largo se sube. Todo eso lo hace
-> cualquier sastre y sale poco.
+> Porque el saco no se define de frente. Se define acá.
 >
-> El hombro no. Para tocarlo hay que abrir la costura, descoser la manga y
-> rehacer la pieza entera. Es el arreglo más caro que existe, y la mayoría de
-> los sastres ni te lo toma.
+> Esta costura tiene que morir justo donde termina tu hombro. Si cae sobre el
+> brazo, te queda grande. Si te queda para adentro, chico. Y si se forma este
+> pliegue debajo, no es tu talle: esa arruga no se va nunca.
 >
-> Así que el hombro no se arregla: se compra.
+> ¿Y por qué esta costura y no otra? Porque todo lo demás se arregla. La manga
+> se acorta, el cuerpo se entalla, el largo se sube. Cualquier sastre, dos
+> mangos.
 >
-> Y se mira de costado, en cinco segundos. La costura tiene que morir justo
-> donde termina tu hombro. Si cae acá, sobre el brazo, te queda grande. Si te
-> queda para adentro, chico. Y si se forma este pliegue debajo, no es tu talle:
-> esa arruga no se va nunca.
+> El hombro no. Hay que abrir la costura, descoser la manga y rehacer la pieza
+> entera. Es el arreglo más caro que existe, y la mayoría de los sastres ni te
+> lo toma.
 >
-> Probátelo de costado antes de mirarte de frente. Guardalo para la próxima vez
-> que estés en un probador.
+> Así que el hombro no se arregla. Se compra.
+>
+> La próxima vez que estés en un probador, mirate de costado antes que de
+> frente. Guardalo.
+
+### Por qué está armado así
+
+El orden anterior abría con un acertijo ("todo se arregla menos una cosa") y
+seguía con la lista de arreglos de sastre, que es la parte más aburrida. La
+costura — lo único visual — aparecía recién a los 20 segundos.
+
+Invertido:
+
+1. **Acusación, no acertijo.** La primera línea es algo que el que mira ya
+   hizo. Se mete en el probador solo.
+2. **Imagen a los 5 segundos.** Tu hombro, tu dedo en la costura. No texto
+   hablado.
+3. **La lista de arreglos pasa a ser respuesta.** "¿Y por qué esta costura y no
+   otra?" la convierte en gancho encadenado en vez de trámite (regla 4 de
+   `CLAUDE.md`).
+
+### Ganchos alternativos
+
+- "Hay una parte del saco que si te queda mal, ya perdiste la plata. Y no es la
+  que estás mirando."
+- "Podés gastar en el saco, gastar en el sastre, y seguir viéndote mal. Por
+  esto."
+
+El primero es más de contenido, el segundo más de bronca.
 
 ## Qué necesita la grabación
 
