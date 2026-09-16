@@ -6,61 +6,49 @@
 **Duración objetivo:** 45–50 seg
 **Formato:** utilidad de compra pura (el que más guardados genera, ver `CONTEXTO.md`)
 
-## Guion corrido
+## Guion corrido — APROBADO
 
-> Te probás un saco, te mirás de frente, y ahí ya te equivocaste.
+> Cinco segundos y sabés si un saco es tuyo. Ni te lo pruebes entero.
 >
-> Porque el saco no se define de frente. Se define acá.
+> Mirate de costado. La costura del hombro tiene que terminar justo donde
+> termina tu hombro.
 >
-> Esta costura tiene que morir justo donde termina tu hombro. Si cae sobre el
-> brazo, te queda grande. Si te queda para adentro, chico. Y si se forma este
-> pliegue debajo, no es tu talle: esa arruga no se va nunca.
+> Eso es todo.
 >
-> ¿Y por qué esta costura y no otra? Porque todo lo demás se arregla. La manga
-> se acorta, el cuerpo se entalla, el largo se sube. Cualquier sastre, dos
-> mangos.
+> Y conviene saberlo, porque el hombro es lo único que después no se arregla.
+> La manga, el cuerpo y el largo te los toca cualquier sastre. El hombro no.
 >
-> El hombro no. Hay que abrir la costura, descoser la manga y rehacer la pieza
-> entera. Es el arreglo más caro que existe, y la mayoría de los sastres ni te
-> lo toma.
->
-> Así que el hombro no se arregla. Se compra.
->
-> La próxima vez que estés en un probador, mirate de costado antes que de
-> frente. Guardalo.
+> Guardalo para la próxima vez que estés en un probador.
 
-### Por qué está armado así
+Duración: ~20 segundos.
 
-El orden anterior abría con un acertijo ("todo se arregla menos una cosa") y
-seguía con la lista de arreglos de sastre, que es la parte más aburrida. La
-costura — lo único visual — aparecía recién a los 20 segundos.
+### Por qué quedó así
 
-Invertido:
+Cinco versiones descartadas antes de esta. Lo que las tumbó, en orden:
 
-1. **Acusación, no acertijo.** La primera línea es algo que el que mira ya
-   hizo. Se mete en el probador solo.
-2. **Imagen a los 5 segundos.** Tu hombro, tu dedo en la costura. No texto
-   hablado.
-3. **La lista de arreglos pasa a ser respuesta.** "¿Y por qué esta costura y no
-   otra?" la convierte en gancho encadenado en vez de trámite (regla 4 de
-   `CLAUDE.md`).
+1. **La premisa de los dos sacos.** Mismo modelo, marca y talle tienen que
+   calzar igual. Artificio, afuera.
+2. **El gancho acertijo** ("todo se arregla menos una cosa"). No frena a nadie,
+   y lo seguía la lista de arreglos de sastre, la parte más aburrida.
+3. **Los tres ganchos de reto** ("te equivocaste", "perdiste la plata", "te ves
+   mal"). Los tres eran el mismo animal: retar al espectador. Es el registro
+   más gastado del rubro.
+4. **La escena del sastre.** Demasiado técnica. Carpintería de taller cuando lo
+   que sirve es el truco.
+5. **La enumeración de fallas** ("si cae sobre el brazo grande, para adentro
+   chico, si se forma el pliegue no es tu talle"). Redundante: si ya se dijo
+   dónde tiene que terminar la costura, lo demás se deduce solo. Y a cámara no
+   se entiende sin tener un saco de cada caso.
 
-### Ganchos alternativos
-
-- "Hay una parte del saco que si te queda mal, ya perdiste la plata. Y no es la
-  que estás mirando."
-- "Podés gastar en el saco, gastar en el sastre, y seguir viéndote mal. Por
-  esto."
-
-El primero es más de contenido, el segundo más de bronca.
+**La lección:** el valor del reel es el truco, no el contexto del truco. Cada
+vez que se le agregó marco —premisa, escena, enumeración— se volvió más largo y
+menos útil. Se sostiene con una sola regla dicha una sola vez.
 
 ## Qué necesita la grabación
 
-- **Un saco que le quede bien**, puesto.
-- **Plano de costado** para la costura del hombro. Es el plano que sostiene
-  todo el reel: si no se ve, no se entiende.
-- **Para el pliegue:** un saco grande, mostrado como ejemplo de lo que no va.
-  Se dice "así se ve cuando te queda grande", no "este es mi talle".
+- **Un saco**, puesto.
+- **Plano de costado** con la costura del hombro a la vista. Es el plano que
+  sostiene todo el reel: si no se ve, no se entiende.
 
 ## Chequeo de datos
 
@@ -74,20 +62,6 @@ El primero es más de contenido, el segundo más de bronca.
 No hay en este guion ninguna afirmación histórica ni numérica. Ese es
 justamente su valor: es criterio propio y demostración física a cámara. No
 depende de fuente externa.
-
-## Descartado — la premisa de los dos sacos
-
-La primera versión abría con *"estos dos sacos son del mismo talle, uno me
-queda bien y el otro no"*. Jesu la frenó dos veces, con razón:
-
-1. Mismo modelo, misma marca y mismo talle tienen que calzar igual. Si no, es
-   falla de fábrica, no un dato de contenido.
-2. Intenté salvarla llevándola a dos marcas distintas. Peor: ese es otro tema
-   (el del talle M), no suma al hombro y desvía el foco.
-
-**Lo que quedó:** el reel nunca necesitó dos sacos. El valor es uno solo — el
-hombro es lo único que no se arregla — y el gancho sale de ahí, no de un
-artificio.
 
 ## Carril
 
