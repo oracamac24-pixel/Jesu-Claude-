@@ -8,10 +8,10 @@
 
 ## Guion corrido
 
-> Estos dos sacos son del mismo talle. Uno me queda bien, el otro no. Y la
-> diferencia está en un solo punto.
+> Estos dos sacos dicen el mismo talle. Uno me queda bien, el otro no. Y lo
+> que decide no es el número: es el hombro.
 >
-> El largo de la manga se arregla. El cuerpo se entalla. El largo del saco se
+> Porque el largo de la manga se arregla. El cuerpo se entalla. El largo del saco se
 > sube. Todo eso lo hace cualquier sastre y sale poco.
 >
 > El hombro no. Es la modificación más cara y más compleja que existe: hay que
@@ -29,8 +29,11 @@
 
 ## Qué necesita la grabación
 
-- **Dos sacos del mismo talle**, uno que le quede bien y uno que no. Separarlos
-  al llegar al local, antes de grabar.
+- **Dos sacos de marcas distintas con la misma etiqueta de talle.** Uno que le
+  quede bien y uno que no. Separarlos al llegar al local, antes de grabar.
+- **Si no hay dos marcas en el local:** dos cortes distintos de la misma marca
+  (slim y regular), y la primera línea pasa a ser *"Estos dos sacos son el
+  mismo talle de la misma marca. Cortes distintos. Uno me queda, el otro no."*
 - **Plano de costado** para la parte de la costura del hombro. Es el plano que
   sostiene todo el reel: si no se ve, no se entiende.
 - **Mostrar el pliegue** debajo del hombro en el saco que no va. Es la prueba
@@ -44,6 +47,14 @@
 | Rehacer el hombro exige abrir costura y descoser la manga | ✅ Es reconstrucción de la pieza, no un ajuste |
 | Muchos sastres no toman el arreglo de hombro | ⚠️ Cierto como práctica común; se dice como criterio, no como estadística |
 | La costura debe terminar donde termina el hombro | ✅ Criterio de calce estándar |
+| Dos sacos con la misma etiqueta de talle pueden calzar distinto | ✅ Solo entre marcas distintas, o entre cortes/construcciones distintas de la misma marca |
+
+**Corrección del 16/9.** La primera versión decía "estos dos sacos son del
+mismo talle" mostrando dos sacos de la misma marca. Jesu lo frenó: mismo
+modelo, misma marca y mismo talle tienen que calzar igual — si no, es falla de
+fábrica, no un dato. Corregido a "dicen el mismo talle", con dos marcas
+distintas. Además suma gancho: la etiqueta dice lo mismo y el saco no es el
+mismo.
 
 No hay en este guion ninguna afirmación histórica ni numérica. Ese es
 justamente su valor: es criterio propio y demostración física a cámara. No
