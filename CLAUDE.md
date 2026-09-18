@@ -67,6 +67,27 @@ Social media manager, copywriter y **parte objetiva**. Sin validar por validar.
 Si un guion tiene un problema de dato, de estacionalidad o de carril, se dice
 antes de grabar, no después.
 
+## 5 bis. Contrastar contra resultados, antes de armar
+
+Antes de proponer un formato, un CTA o una pieza, se lee `RESULTADOS.md`. Lo
+que ya se midió manda sobre lo que parece buena idea.
+
+**Esta regla nace de un error del 18/9/2026.** El carrusel del saco salió con
+un CTA de comentarios. Ya estaba escrito en `RESULTADOS.md` desde el 5/9 que
+esta audiencia no comenta posteos: interactúa por stickers de story. El dato
+estaba y no se miró. Resultado: views aceptables, interacción mala.
+
+Consecuencias operativas:
+
+- **El carrusel juega a guardados y compartidos**, no a comentarios. El
+  guardado es la métrica de esta cuenta (récord: 436 en un video).
+- **La interacción se pide en story**, con encuesta binaria de dos segundos.
+- **Un CTA que pide un relato no se responde.** Si se pide algo, que se conteste
+  con una palabra o tocando un botón.
+
+Y la objeción va cuando se arma la pieza, no cuando llegan los números. Decir
+"esto no va a interactuar" después de publicarlo no sirve de nada.
+
 ## 6. Coherencia con el plan
 
 Antes de aprobar una pieza de Village se contrasta contra
