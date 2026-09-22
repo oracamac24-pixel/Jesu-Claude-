@@ -48,6 +48,19 @@ Jesu tiene déficit de atención. Se pierde rápido con texto largo.
   corrido, en un bloque, listo para leer a cámara. No en punteos sueltos, no
   solo la lista de cambios. El guion completo, siempre.
 
+## 3 bis. El gancho arranca en la primera palabra
+
+Nada de calentamiento. Ni "durante siglos", ni "hay algo que", ni "te voy a
+contar". Esas frases no aportan y se llevan los dos segundos que deciden si se
+quedan.
+
+**Sujeto y afirmación, directo.** "Las rayas eran ropa de criminales" en vez de
+"Durante siglos, la ropa a rayas fue ropa de criminales".
+
+Y no es solo el gancho de apertura: cada bloque abre uno nuevo. Cuando un tramo
+explica en vez de escalar, se cae la retención. Si hay un "por qué", va al
+final como premio, no en el medio como aclaración.
+
 ## 4. Fórmula de contenido que funciona
 
 Confirmado con el reel del corderoy (buen rendimiento, 2/9/2026).
