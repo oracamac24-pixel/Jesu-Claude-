@@ -7,10 +7,11 @@
 
 ## Guion corrido — APROBADO
 
-> Las rayas eran ropa de criminales. Literal.
+> Hace setecientos años, esta remera te dejaba afuera de la sociedad.
 >
-> Las usaban los que actuaban en la calle, las prostitutas, los verdugos, los
-> leprosos. Y cuando pintaban al diablo, lo pintaban a rayas.
+> Las rayas eran la marca de los que nadie quería cerca: los que actuaban en la
+> calle, las prostitutas, los verdugos, los leprosos. Y cuando pintaban al
+> diablo, lo pintaban a rayas.
 >
 > Pero no estaban prohibidas. Era peor: la ley te obligaba a usarlas, para
 > marcarte.
@@ -22,7 +23,23 @@
 > distinguía el fondo de la figura. Para ellos eso era desorden. Y el desorden
 > era del diablo.
 >
-> Setecientos años después es lo más inofensivo que tenés en el placard.
+> Hoy es lo más inofensivo que tenés en el placard.
+
+**Gancho alternativo, más duro:** "A esta tela te obligaban a usarla. Para que
+todos supieran quién eras."
+
+**Para grabar:** la prenda a rayas en la mano desde el primer segundo. El
+gancho funciona porque se muestra algo común mientras se dice algo violento
+sobre eso.
+
+### Ganchos descartados
+
+- "Las rayas eran ropa de criminales. Y nadie sabe bien por qué." Arrancar con
+  una duda tira abajo la autoridad de todo lo que viene después.
+- "Las rayas eran ropa de criminales. Literal." El "literal" suelto no suma y
+  suena a muletilla.
+- "Durante siglos, la ropa a rayas fue ropa de criminales." Calentamiento: se
+  come los dos segundos que deciden. Ver regla 3 bis de `CLAUDE.md`.
 
 ## Chequeo de datos
 
@@ -53,10 +70,6 @@ horizontales. **Descartado:** sale de blogs, no de fuente académica.
 **El zapatero de Ruan, 1310**, condenado a muerte por vestir a rayas. Es la
 anécdota más vistosa y la más peligrosa: aparece descrita como *leyenda*, no
 como hecho documentado. El guion se sostiene sin ella.
-
-**"Nadie sabe bien por qué"** como segunda frase. Arrancar con una duda tira
-abajo la autoridad de todo lo que viene después. El porqué se afirma, y va al
-final.
 
 ## Imágenes
 
