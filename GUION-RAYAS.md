@@ -7,10 +7,10 @@
 
 ## Guion corrido — APROBADO
 
-> Hace setecientos años, esta remera te dejaba afuera de la sociedad.
+> Si usabas rayas en la Edad Media, estabas en problemas.
 >
-> Las rayas eran la marca de los que nadie quería cerca: los que actuaban en la
-> calle, las prostitutas, los verdugos, los leprosos. Y cuando pintaban al
+> Era la marca de los que nadie quería cerca: los que actuaban en la calle, las
+> prostitutas, los verdugos, los leprosos. Y cuando pintaban al
 > diablo, lo pintaban a rayas.
 >
 > Pero no estaban prohibidas. Era peor: la ley te obligaba a usarlas, para
@@ -28,9 +28,12 @@
 **Gancho alternativo, más duro:** "A esta tela te obligaban a usarla. Para que
 todos supieran quién eras."
 
-**Para grabar:** la prenda a rayas en la mano desde el primer segundo. El
-gancho funciona porque se muestra algo común mientras se dice algo violento
-sobre eso.
+**Para grabar:** la prenda a rayas en la mano desde el primer segundo.
+
+**El tono es el de Jesu:** segunda persona, frases cortas, sin vueltas
+literarias. Le habla al que mira, no narra desde afuera. "Si usabas rayas,
+estabas en problemas" y no "hace setecientos años la raya marcaba a los
+excluidos".
 
 ### Ganchos descartados
 
@@ -40,6 +43,8 @@ sobre eso.
   suena a muletilla.
 - "Durante siglos, la ropa a rayas fue ropa de criminales." Calentamiento: se
   come los dos segundos que deciden. Ver regla 3 bis de `CLAUDE.md`.
+- "Hace setecientos años, esta remera te dejaba afuera de la sociedad." Bien de
+  gancho pero narrado desde afuera. No es el tono de Jesu.
 
 ## Chequeo de datos
 
