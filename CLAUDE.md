@@ -116,3 +116,25 @@ Antes de aprobar una pieza de Village se contrasta contra
 
 Todo lo que se cierra se escribe en el repo en el momento. No queda solo en el
 chat.
+
+## 8. Qué se entrega y qué no
+
+**Se entrega el guion corrido y el chequeo de datos. Nada más.** Nada de planos,
+listas de tomas ni indicaciones de edición: Jesu sabe filmar y no los pide. Cada
+bloque de más es ruido y cuesta atención.
+
+## 9. Si no hay archivo, no hay idea
+
+Regla nacida del fracaso del guion de las rayas (23–25/9/2026). Se cerró un
+guion cuya narrativa dependía de imágenes medievales que no se podían conseguir,
+y Jesu grabó sin material para editar. Tuvo que rehacer todo.
+
+Antes de proponer una idea que necesite archivo:
+
+1. Se confirma que el archivo existe **y que se puede abrir y capturar**.
+2. Si no se puede verificar la imagen, la idea no se propone.
+3. Se prefiere siempre la historia que se cuenta **con la prenda en la mano**,
+   sin material externo.
+
+Y un dato de logística que no se olvida: **Jesu no siempre está en el local**.
+Antes de proponer algo que se filme ahí, se pregunta.
