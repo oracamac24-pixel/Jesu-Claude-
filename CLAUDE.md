@@ -138,3 +138,12 @@ Antes de proponer una idea que necesite archivo:
 
 Y un dato de logística que no se olvida: **Jesu no siempre está en el local**.
 Antes de proponer algo que se filme ahí, se pregunta.
+
+## 10. El formato de story que usa Jesu
+
+**Layout de varias fotos de producto + encuesta.** Es su formato por defecto y
+no hace falta proponerle otro. Ejemplo del 25/9/2026: un layout de remeras con
+encuesta y otro de sweaters livianos, los dos con fotos buenas.
+
+Cuando el calendario diga "story", se da por sentado que es esto salvo que se
+indique otra cosa. No se le sugiere reinventar el formato cada vez.

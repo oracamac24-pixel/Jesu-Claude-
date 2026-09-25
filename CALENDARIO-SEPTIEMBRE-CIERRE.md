@@ -1,51 +1,46 @@
-# Calendario Village — 22 al 30 de septiembre 2026
+# Calendario Village — 25 al 30 de septiembre 2026
 
-Versión visual: https://claude.ai/artifact/XaYea2cNDJxKQfHnNuVxry
+Versión visual (desactualizada, corresponde al plan del 22/9):
+https://claude.ai/artifact/XaYea2cNDJxKQfHnNuVxry
 
-Nueve días con dos cosas simultáneas: el winter sale cierra el 30 y entra la
-temporada nueva (fotos ya hechas). El calendario está armado para que una
-empuje a la otra.
+Actualizado el 25/9/2026. El winter sale cierra el 30 y entra la temporada
+nueva, con las fotos ya hechas. El calendario está armado para que una empuje a
+la otra.
 
-**Fijos:** reel el jueves 24 · carrusel el martes 29 · cierra el sale el
-miércoles 30 · 2 o 3 stories por día hábil.
+## Qué cambió respecto del plan original
 
-## Semana 1 — 22 al 27 · El reel de la tela
+**Se cayó el reel del jueves 24.** Era el de la etiqueta y la composición. Se
+grabó en su lugar el de las rayas, que quedó inutilizable por falta de archivo
+para editar (ver `IMAGENES-RAYAS.md` y regla 9 de `CLAUDE.md`).
 
-| Día | Feed | Stories |
-|---|---|---|
-| Mar 22 | — | Proceso: prenda sobre el fondo limpio de la ficha nueva, antes y después. **Encuesta:** ¿Comprás por la web o por Instagram? |
-| Mié 23 | — | Teaser: etiqueta de composición en primer plano. "Mañana: lo que dice esta etiqueta y casi nadie lee." **Encuesta:** ¿Mirás la etiqueta antes de comprar? Sí / Nunca |
-| Jue 24 | **REEL** | Amplificación + resultado de la encuesta. **Encuesta:** ¿Fuiste a mirar la tuya? |
-| Vie 25 | — | **Caja de preguntas** sobre telas. Contestar tres o cuatro en el día. |
-| Sáb 26 | — | Una sola: prenda de temporada nueva, sin texto de venta. |
-| Dom 27 | — | Nada. |
+**Lo reemplaza el reel del color** (`GUION-BLANCO-NEGRO.md`), que cubre el mismo
+terreno —composición, algodón vs sintético— y además está verificado. Se graba
+el viernes 25 y sube el 25 o el 26.
 
-### Reel del jueves 24
-
-**"No tenés calor por el clima. Tenés calor por la tela."**
-
-Fusión del reel de "cómo leer la etiqueta" que estaba en la semana 4 de
-`VILLAGE-PLAN-SEPTIEMBRE.md` con la idea de cambio de estación de
-`BANCO-TEMAS.md`. Se pisaban; ahora son uno solo, y cae justo en la entrada a
-la primavera.
-
-**Pendiente de verificación:** la transpirabilidad de fibras naturales vs.
-sintéticas. Anotado sin fuente desde el 15/9. Si no se consigue fuente, el reel
-se reescribe alrededor de lo que sí se puede mostrar a cámara: qué dice la
-etiqueta y qué porcentaje tiene cada prenda de la tienda.
-
-## Semana 2 — 28 al 30 · Se cierra el invierno, entra lo nuevo
+## Los seis días
 
 | Día | Feed | Stories |
 |---|---|---|
-| Lun 28 | — | Arranca el cierre: "Winter sale hasta el miércoles." Link + **encuesta** ¿Ya aprovechaste? Segunda story con las prendas que quedan, en movimiento. |
-| Mar 29 | **CARRUSEL** temporada nueva | Repost de la placa 1 + layout de 4 fotos numeradas con **quiz**: ¿cuál sube primero a la web? |
-| Mié 30 | — | Último día. Tres stories repartidas (mañana, tarde, cierre) con link. La última abre octubre. |
+| **Vie 25** | **REEL del color**, si se llega a editar | Hechas: layout de remeras con encuesta, layout de sweaters livianos |
+| **Sáb 26** | El reel, si no salió el viernes | **Encuesta blanco vs negro** — corre el día después de que salga el reel |
+| **Dom 27** | — | Resultado de la encuesta: la mayoría votó mal. Ese error es la story |
+| **Lun 28** | — | Arranca el cierre: "Winter sale hasta el miércoles", con link. Segunda story con las prendas que quedan, en movimiento |
+| **Mar 29** | **CARRUSEL** temporada nueva | Repost de la placa 1 + layout de 4 fotos numeradas con **quiz**: ¿cuál sube primero a la web? |
+| **Mié 30** | — | Último día. Tres stories repartidas (mañana, tarde, cierre) con link. La última abre octubre |
+
+**La encuesta va el día después del reel, no el mismo día.** Ya lo vieron y
+quieren contestar. Con el corderoy funcionó exactamente así (ver
+`RESULTADOS.md`).
+
+### Reel — "El color no te refresca"
+
+Guion cerrado y verificado en `GUION-BLANCO-NEGRO.md`. Archivo para editar: la
+página del paper de Nature, capturable de pantalla.
 
 ### Carrusel del martes 29
 
-Estreno del formato nuevo: foto a sangre, sin fondo de color, una línea de
-texto por placa, cero adorno. Con las fotos de la sesión.
+Estreno del formato nuevo: foto a sangre, sin fondo de color, una línea de texto
+por placa, cero adorno. Con las fotos de la sesión del 17/9.
 
 ## Las tres reglas que lo ordenan
 
@@ -53,10 +48,10 @@ texto por placa, cero adorno. Con las fotos de la sesión.
    confirmaron (ver `RESULTADOS.md` y regla 5 bis de `CLAUDE.md`). Todos los
    días hábiles llevan sticker; ninguna pieza de feed pide comentarios.
 2. **El feed juega a guardados y compartidos.** Es la métrica de esta cuenta.
-3. **Dos piezas de feed en nueve días, no una por día.** Lo que sostiene entre
+3. **Dos piezas de feed en seis días, no una por día.** Lo que sostiene entre
    medio son las stories.
 
 ## Si algo se cae
 
-Lo primero que se saca es la story del sábado. Lo último que se toca son el
-reel del 24 y el cierre del sale del 30.
+Lo primero que se saca es la story del domingo. Lo último que se toca son el
+reel y el cierre del sale del 30.

@@ -30,8 +30,12 @@ fotos de la temporada nueva. Primera semana de octubre.
 
 - **La campaña de Crítica de 1926** afirmada en el reel del ambo ya publicado.
   Nunca se pudo confirmar. Queda anotado como deuda.
-- **Transpirabilidad de fibras naturales vs sintéticas**, para el reel de
-  cambio de estación (`BANCO-TEMAS.md`).
+- ~~**Transpirabilidad de fibras naturales vs sintéticas.**~~ **RESUELTO el
+  25/9/2026.** El algodón absorbe 25–27% de su peso en agua antes de sentirse
+  húmedo; el poliéster, ~0,4%. Y las remeras de poliéster huelen peor después de
+  entrenar: Callewaert et al., _Applied and Environmental Microbiology_ (2014).
+  Límite del dato: para deporte intenso el sintético seca más rápido. Ver
+  `GUION-BLANCO-NEGRO.md`.
 - **Talles y Ley de Talles argentina**, para el reel del talle M.
 
 ## Formatos sin desarrollar
