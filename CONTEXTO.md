@@ -51,6 +51,36 @@ Body:
 - 2020 VF Corp compra Supreme por $2.100 millones
 Cierre: "Louis Vuitton los quiso borrar. Terminaron siendo tan grandes que fueron ellos los que golpearon la puerta."
 
+Guion corrido 60s (26/9/2026) — sin el beat de Kruger, ~165 palabras:
+
+"Louis Vuitton los obligo a destruir su propio producto por copiarles el logo.
+Diecisiete años despues, la misma Louis Vuitton vendia un skate de Supreme a casi
+setenta mil dolares.
+
+1994. James Jebbia abre un local en Lafayette Street con doce mil dolares y un
+alquiler de dos mil por mes.
+
+Lo diseña raro a proposito: la ropa contra las paredes, el medio vacio, para que los
+skaters entren andando con la tabla. El primer equipo: Justin Pierce y Harold Hunter,
+los de Kids.
+
+Y producian poco a proposito. No porque no pudieran hacer mas: porque la fila en la
+puerta valia mas que la venta.
+
+En el 2000 sacan unas tablas con el monograma de Louis Vuitton dado vuelta. A las dos
+semanas les llega la carta documento: fuera de circulacion y destruidas.
+
+En 2017 Louis Vuitton los llama para colaborar. Oficialmente. Un skate con baul de
+monograma: sesenta y ocho mil quinientos dolares.
+
+En 2020 venden Supreme por dos mil cien millones.
+
+Louis Vuitton los quiso borrar. Terminaron siendo tan grandes que fueron ellos los que
+golpearon la puerta."
+
+Nota de grabacion: la pausa antes de "sesenta y ocho mil quinientos dolares" es la que
+hace el video. Ese numero es el pago de todo lo anterior.
+
 ## Banco — pendiente de trabajar
 - Top 3 "marcas que nacieron para otra cosa y volvieron moda": Arc'teryx confirmado + faltan 2 (propuesta: Salomon, Dr. Martens; evitar Timberland por repetido)
 - Top 3 "marcas que casi desaparecieron y volvieron más fuertes": New Balance, Fila, Lacoste — aprobado, listo para punteo
