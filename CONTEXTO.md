@@ -35,15 +35,20 @@ Body:
 Cierre: "Una campera prestada en el '93 terminó siendo el ADN de una marca que hoy se subasta como arte."
 
 ### SUPREME
-Hook: "Louis Vuitton los obligó a quemar su propio producto por copiarles el logo. Diecisiete años después, la misma Louis Vuitton les pagaba 56 mil dólares por un mazo de skate."
+Datos verificados el 26/9/2026. Fuentes: Highsnobiety, nss magazine, Interview, Artnet, CNBC.
+Hook: "Louis Vuitton los obligó a destruir su propio producto por copiarles el logo. Diecisiete años despues, la misma Louis Vuitton vendia un skate de Supreme a casi setenta mil dolares."
 Body:
 - 1994 James Jebbia abre con $12.000 en Lafayette St, alquiler $2.000/mes
 - Local pensado para que los skaters entren con tabla; primer equipo incluía a Justin Pierce y Harold Hunter (de Kids, 1995)
-- Logo calcado del estilo de Barbara Kruger, que después los cagó a pares públicamente
+- Logo calcado del estilo de Barbara Kruger: caja roja, Futura oblicua, sin pedir permiso
 - Estrategia real: producir poco a propósito para generar fila
-- 2000 LV los denuncia por un mazo con su monograma; los obligan a quemarlos en 2 semanas
-- 2017 LV los busca para colaborar oficialmente; deck a $56.000
-- 2020 venden la marca por $2.100 millones
+- 2000 sacan tablas con el monograma de LV dado vuelta; A LAS DOS SEMANAS llega la carta
+  documento: fuera de circulacion y destruidas (el plazo no era de 2 semanas, la carta llego a las 2 semanas)
+- 2013 Supreme demanda a Married to the Mob por remeras "Supreme Bitch"; Barbara Kruger
+  responde con un Word llamado fools.doc: "que ridiculo lio de payasos nada copados"
+- 2017 LV los busca para colaborar oficialmente; baul porta-skate (Boite Skateboard) $68.500,
+  porta-skate solo $54.500 (el dato viejo de $56.000 era incorrecto)
+- 2020 VF Corp compra Supreme por $2.100 millones
 Cierre: "Louis Vuitton los quiso borrar. Terminaron siendo tan grandes que fueron ellos los que golpearon la puerta."
 
 ## Banco — pendiente de trabajar
