@@ -48,5 +48,7 @@ fotos de la temporada nueva. Primera semana de octubre.
 
 - Jueves 17/9: sesión con Feli y la cortina de terciopelo beige.
 - Prueba de luz hecha el martes.
-- Después de la sesión: armar el prompt base de IA con la cortina como
-  referencia, y dejarlo escrito acá para reusar.
+- ~~Después de la sesión: armar el prompt base de IA.~~ **RESUELTO el
+  1/10/2026.** Ver `PROMPT-FONDOS.md`. La cortina quedó descartada: la sesión se
+  hizo al aire libre, en la calle, con el sujeto en sombra abierta. El prompt
+  está armado alrededor de esa luz y sirve para todas las prendas.
