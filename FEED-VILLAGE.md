@@ -182,3 +182,84 @@ Página 2 plantilla de portada de reel. Página 3 plantilla de pieza crema.
 **Pendiente a mano:** en las páginas 2 y 3 el sello salió como "Village Polo
 Club" en vez de espaciado. Canva lo normalizó y la API no corrige
 letter-spacing.
+
+---
+
+# Estado del feed al 19/10/2026
+
+Auditado con Claude in Chrome sobre los 24 posteos más recientes de 66.
+
+## Datos
+
+66 publicaciones, 9.037 seguidores. **Ningún post fijado**, así que la grilla
+arranca directo con lo más reciente y no hay corrimiento que calcular.
+
+## El hallazgo
+
+**De 24 posteos, 19 son reels y 5 son carruseles. Cero fotos.**
+
+Por eso el feed se ve siempre igual: son todos Jesu hablando en el local, con
+el mismo fondo oscuro de madera y ropa colgada. La columna de PRODUCTO del
+sistema es un tipo de posteo que esta cuenta nunca hizo, y es el cambio que más
+rápido se va a notar: las fotos sobre fondo gris claro rompen el bloque oscuro.
+
+Además, solo un posteo —el carrusel del saco— respeta el sistema crema + azul.
+El resto de los carruseles son azul pleno con emoji o con tipografía script.
+
+## El orden de publicación va al revés de como se lee
+
+Instagram pone lo más nuevo arriba a la izquierda. El último posteo que se sube
+queda en el casillero 1. **Para que la grilla quede como está diseñada hay que
+publicar del 9º al 1º.**
+
+| Orden de publicación | Qué se sube | Qué es |
+|---|---|---|
+| 1º | FOTO | `@rodraxph-161`, bermuda azul |
+| 2º | REEL | Qué ponerte para un casamiento de primavera |
+| 3º | PLACA | la frase del reel del casamiento |
+| 4º | REEL | Por qué el azul marino es EL color del vestir |
+| 5º | PLACA | la frase del reel del azul marino |
+| 6º | FOTO | `@rodraxph-112`, macro de textura |
+| 7º | PLACA | "El hombro es lo único que un sastre después no te arregla" |
+| 8º | FOTO | `@rodraxph-029`, chomba celeste |
+| 9º | REEL | a definir |
+
+Al terminar los nueve, la primera pantalla del feed es el sistema nuevo
+completo. Son unas tres semanas a tres posteos por semana.
+
+## La placa crema sale del reel que tiene al lado
+
+Corrección de Jesu, y es mejor que la regla original: la placa **no es un dato
+suelto**. Es la frase del reel vecino que vale la pena recordar, puesta sola
+sobre fondo crema. Así el feed se lee encadenado.
+
+El ejemplo de lino que estaba en la plantilla se cambió por uno del reel del
+saco, que sí se grabó.
+
+## Qué archivar y qué no
+
+**Archivar:** promos con fecha vencida —Winter Sale, Día del Padre, semana del
+amigo— y los carruseles azules con emoji, que son los que rompen el sistema.
+
+**No archivar:** los reels de contenido, aunque sean de invierno (corderoy,
+colores, el bordó, el saco). Un reel sigue juntando reproducciones durante
+meses y archivarlo lo saca también de la pestaña de reels. Es tirar alcance que
+todavía está corriendo, y son el pilar que funciona.
+
+Regla corta: lo que tiene fecha de vencimiento se archiva, lo que enseña se
+queda.
+
+## No anclar todavía
+
+Instagram deja anclar hasta tres posteos y quedan fijos arriba para siempre.
+Hoy lo que hay arriba es la estética vieja, así que anclar congela justo lo que
+se quiere cambiar. Se ancla cuando haya algo nuevo que valga quedarse fijo.
+
+## Por qué solo los reels llevan portada
+
+Un reel es un video y la grilla necesita una imagen fija que lo represente: eso
+es la portada, y si no se le da una, Instagram agarra un frame cualquiera.
+
+El resto de los posteos ya son una imagen: en una foto se ve la foto, en un
+carrusel se ve la primera placa, en una placa crema se ve la placa. Se controla
+cómo se ve cada celda siempre, lo que cambia es cómo.
