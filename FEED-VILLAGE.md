@@ -206,26 +206,19 @@ rápido se va a notar: las fotos sobre fondo gris claro rompen el bloque oscuro.
 Además, solo un posteo —el carrusel del saco— respeta el sistema crema + azul.
 El resto de los carruseles son azul pleno con emoji o con tipografía script.
 
-## El orden de publicación va al revés de como se lee
+## La regla de publicación, en una línea
 
-Instagram pone lo más nuevo arriba a la izquierda. El último posteo que se sube
-queda en el casillero 1. **Para que la grilla quede como está diseñada hay que
-publicar del 9º al 1º.**
+**Nunca dos del mismo tipo seguidas.** Reel, foto, placa, y vuelta a empezar.
 
-| Orden de publicación | Qué se sube | Qué es |
-|---|---|---|
-| 1º | FOTO | `@rodraxph-161`, bermuda azul |
-| 2º | REEL | Qué ponerte para un casamiento de primavera |
-| 3º | PLACA | la frase del reel del casamiento |
-| 4º | REEL | Por qué el azul marino es EL color del vestir |
-| 5º | PLACA | la frase del reel del azul marino |
-| 6º | FOTO | `@rodraxph-112`, macro de textura |
-| 7º | PLACA | "El hombro es lo único que un sastre después no te arregla" |
-| 8º | FOTO | `@rodraxph-029`, chomba celeste |
-| 9º | REEL | a definir |
+Se intentó numerar la grilla con el orden exacto de publicación (del 9º al 1º,
+porque Instagram pone lo más nuevo arriba a la izquierda). **Confundía más de lo
+que ayudaba y se sacó.** A tres posteos por semana, en tres semanas la primera
+pantalla del feed ya es el sistema nuevo, sin necesidad de llevar la cuenta.
 
-Al terminar los nueve, la primera pantalla del feed es el sistema nuevo
-completo. Son unas tres semanas a tres posteos por semana.
+Los nueve posteos del ejemplo son: tres reels (casamiento de primavera, azul
+marino, y uno a definir), tres fotos (`@rodraxph-161` bermuda azul,
+`@rodraxph-112` macro de textura, `@rodraxph-029` chomba celeste) y tres placas
+crema con la frase del reel que cada una acompaña.
 
 ## La placa crema sale del reel que tiene al lado
 
@@ -260,6 +253,6 @@ se quiere cambiar. Se ancla cuando haya algo nuevo que valga quedarse fijo.
 Un reel es un video y la grilla necesita una imagen fija que lo represente: eso
 es la portada, y si no se le da una, Instagram agarra un frame cualquiera.
 
-El resto de los posteos ya son una imagen: en una foto se ve la foto, en un
-carrusel se ve la primera placa, en una placa crema se ve la placa. Se controla
-cómo se ve cada celda siempre, lo que cambia es cómo.
+**Al resto no se le pone portada, y no hace falta.** Una foto, un carrusel o una
+placa crema ya son una imagen: en la grilla se ve esa misma imagen. La placa
+crema se sube como se sube cualquier foto. No hay nada que reemplazar.

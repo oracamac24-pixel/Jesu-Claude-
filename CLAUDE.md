@@ -153,8 +153,8 @@ indique otra cosa. No se le sugiere reinventar el formato cada vez.
 Pedido de Jesu el 19/10/2026. **Todo lo que se trabaja en este chat se cierra
 con dos cosas:**
 
-1. **Un resumen en palabras** de lo que se hizo. No solo el link al archivo o al
-   Canva: qué se decidió y por qué.
+1. **Un resumen corto en palabras** de lo que se hizo. Corto de verdad: lo que
+   se decidió y por qué, no un informe. Si ocupa más de una pantalla, está mal.
 2. **Una sección "En qué quedamos"**, con lo que queda resuelto y lo que queda
    pendiente de su lado.
 
