@@ -112,3 +112,73 @@ degradés, emojis ni stickers.
 `SESION CON CELU VILLAGE` — 43 subcarpetas numeradas, 3 fotos por prenda.
 Camisas (1–12, 18), pantalones (13–17, 30–35), bermudas (19–29), remeras escote
 V (36–43).
+
+---
+
+# Selección de fotos — 19/10/2026
+
+Hechas a partir de las capturas de las carpetas del Drive.
+
+## Corrección
+
+En la versión anterior de este archivo se dijo que **no había fotos de detalle
+ni textura**. Era falso: se dijo mirando nombres de carpeta, no las imágenes.
+Hay macros de cuello, puño, cintura, etiqueta y cierre en las dos sesiones.
+
+## Son dos sesiones distintas y no se mezclan
+
+| | Modelo | Fondo | Prendas |
+|---|---|---|---|
+| **Sesión durazno** (`@rodraxph-2` a `-104`) | Joven, pelo rizado | Durazno cálido | Camperas con capucha, puffers, sweaters, chombas, remeras, pantalones, gorras, blazer |
+| **Sesión gris** (`@rodraxph-001` a `-165`) | Barba, mayor | Gris claro neutro | Chombas piqué en muchos colores, remeras, camisas, sweaters, jeans, bermudas, pantalones |
+
+**El salto de fondo se nota muchísimo en grilla.** Mezclar celda por celda
+rompe el feed.
+
+## Cuál va ahora
+
+**Base del feed: la sesión de fondo gris.** Dos motivos:
+
+1. **Estación.** La sesión durazno está cargada de abrigo —puffers, camperas
+   con capucha, sweaters—. Eso es marzo-abril, no octubre (regla 6). La sesión
+   gris son chombas, remeras, camisas, jeans y bermudas: la estación exacta.
+2. El gris neutro convive mejor con las placas crema que el durazno, que compite.
+
+La sesión durazno queda en banco para otoño. Si se usa alguna chomba de ahí
+ahora, **entra por filas enteras, nunca una celda suelta.**
+
+## La grilla armada
+
+| | | |
+|---|---|---|
+| REEL · portada crema | PRODUCTO · `@rodraxph-029` chomba celeste, cuerpo entero | CREMA · dato |
+| PRODUCTO · `@rodraxph-112` macro textura, chomba marrón | CREMA · dato | REEL · portada crema |
+| CREMA · dato | REEL · portada crema | PRODUCTO · `@rodraxph-161` bermuda azul, plano de piernas |
+
+**El criterio de las tres de producto:** una de cuerpo entero en color fresco
+que abre la grilla, una macro de textura que corta el ritmo, y una de encuadre
+distinto —piernas, no torso— con la prenda más de verano del set. Tres planos
+diferentes en tres celdas. Eso es lo que evita que parezca catálogo.
+
+## Tipografía
+
+Si el brand kit ya tiene una fuente definida, se usa esa.
+
+Si hay que elegir: **Archivo**. Tiene cursiva real, que hace falta porque la
+regla de marca usa la cursiva como acento de una o dos palabras; aguanta el
+espaciado en mayúsculas del sello; y se lee en miniatura de grilla, que es
+donde se juega el feed.
+
+Alternativa más de moda: **Jost**, con cursiva floja. Descartada: Inter, que
+lee a interfaz de app.
+
+## Canva
+
+Documento de trabajo: https://www.canva.com/d/U5QSToFtTeu-231
+
+Página 1 preview de feed con los archivos escritos en cada celda de producto.
+Página 2 plantilla de portada de reel. Página 3 plantilla de pieza crema.
+
+**Pendiente a mano:** en las páginas 2 y 3 el sello salió como "Village Polo
+Club" en vez de espaciado. Canva lo normalizó y la API no corrige
+letter-spacing.
