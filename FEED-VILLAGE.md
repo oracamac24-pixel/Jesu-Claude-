@@ -15,6 +15,22 @@ monótono: nueve celdas que parecen la misma foto nueve veces.
 **El sistema tiene que generar ritmo sin pedir más material.** Se resuelve
 variando el recorte, no el contenido.
 
+## Diagnóstico del feed actual (Claude in Chrome, ~16 posts recientes)
+
+Pegado por Jesu el 19/10/2026.
+
+1. Casi todo es talking-head en el mismo encuadre: él al centro, estanterías
+   atrás, plano medio. Desde la grilla los posts no se distinguen entre sí.
+2. **Las portadas de los reels son frames al azar** con palabras sueltas del
+   subtítulo ("te", "el", "tarde", "usaron", "tres"). Parece descuidado.
+3. Los carruseles hablan tres idiomas: crema editorial, azul con emoji
+   ("comprás online 😰") y una tipografía script ("Top 3 Mejores artículos").
+4. El producto casi nunca es protagonista. No hay detalle, textura ni flat lay.
+5. Las portadas de destacados no coinciden: una es foto, las otras íconos.
+
+**Alcance:** solo se vieron los posts recientes. El feed viejo puede tener otra
+estética no contemplada.
+
 ## La lógica: consistencia por tipo, no patrón posicional
 
 Descartado el patrón posicional (ej. "la columna del medio siempre producto").
@@ -48,24 +64,48 @@ Dos reglas que sostienen la grilla:
 - **Nunca dos placas pegadas**, ni en la misma columna dos veces seguidas.
 - **Un detalle cada tres o cuatro posteos**, no agrupados.
 
+## El ritmo: ciclo rotado, no ciclo fijo
+
+El brief proponía repetir **reel / producto / pieza crema**. Corregido el
+19/10: un ciclo fijo de 3 en una grilla de 3 columnas deja cada tipo clavado en
+su propia columna para siempre —el posteo *n* cae en la columna *n mod 3*—, así
+que el feed queda con tres rayas verticales.
+
+**Se rota el ciclo en cada fila:**
+
+| | | |
+|---|---|---|
+| REEL | PRODUCTO | CREMA |
+| PRODUCTO | CREMA | REEL |
+| CREMA | REEL | PRODUCTO |
+
+Cada fila y cada columna tienen uno de cada tipo. Sin rayas.
+
 ## La paleta
 
-Es la que ya se aprobó en los carruseles de Village:
+Sistema visual vigente de la marca:
 
 | Uso | Hex |
 |---|---|
-| Fondo de placa | `#F2EDE3` |
-| Titular / texto fuerte | `#1B2A44` |
-| Acento | `#33506F` |
-| Línea y detalle | `#C9BFAE` |
+| Fondo crema | `#F2EDE3` |
+| Azul noche — texto | `#1B2A44` |
+| Azul medio — sello | `#33506F` |
+| Azul humo — hairlines | `#8AA2BC` |
 
-## Qué falta para cerrarlo
+Sello `V I L L A G E   P O L O   C L U B` espaciado. Tipografía sans del brand
+kit de Canva. La cursiva va solo como acento de una o dos palabras. Sin
+degradés, emojis ni stickers.
 
-- **El feed actual.** No se vio. Sin eso no se sabe qué se corrige.
-- **Logo, colores y tipografía oficiales de Village.** La paleta de arriba sale
-  de los carruseles, no de un manual de marca.
-- **El diagnóstico de Claude in Chrome**, que Jesu mencionó y no está pegado
-  acá. Por regla 1 no se da por dicho.
+## Limitaciones técnicas confirmadas
+
+- **La API de Canva no cambia la familia tipográfica ni el letter-spacing.** Lo
+  que se genera sale con la fuente por defecto de Canva. Para que quede con la
+  del brand kit hay que aplicarla a mano, o duplicar páginas ya construidas y
+  reemplazar el texto.
+- **No se pueden meter las fotos del Drive en Canva desde acá.** `upload-asset-from-url`
+  solo acepta URLs públicas, y los links de Drive no lo son. Las fotos las
+  suelta Jesu en los marcos.
+- No se pueden bajar exports de Canva ni subirlos a Drive.
 
 ## Carpeta de origen
 
