@@ -256,3 +256,54 @@ es la portada, y si no se le da una, Instagram agarra un frame cualquiera.
 **Al resto no se le pone portada, y no hace falta.** Una foto, un carrusel o una
 placa crema ya son una imagen: en la grilla se ve esa misma imagen. La placa
 crema se sube como se sube cualquier foto. No hay nada que reemplazar.
+
+---
+
+# Tipografía establecida — 19/10/2026
+
+**Archivo**, para todo. Elegida porque tiene cursiva real —la regla de marca usa
+la cursiva como acento de una o dos palabras— y porque aguanta el espaciado en
+mayúsculas del sello sin desarmarse. Además se lee en miniatura de grilla.
+
+Descartadas: **Jost**, más de moda pero con cursiva floja. **Inter**, correcta
+pero lee a interfaz de app.
+
+| Elemento | Tamaño sobre 1080×1440 | Color |
+|---|---|---|
+| Sello `V I L L A G E  P O L O  C L U B`, mayúsculas muy espaciadas | 25 | `#33506F` |
+| Titular de portada de reel | 82 | `#1B2A44` |
+| Texto de placa de dato | 64 | `#1B2A44` |
+| Etiqueta inferior (REEL / DATO) | 30 | `#33506F` |
+| Línea fina | — | `#8AA2BC` |
+
+**La API de Canva no cambia la familia tipográfica.** Lo generado sale con la
+fuente por defecto; Archivo se aplica a mano desde el brand kit, una vez.
+
+# Textos de las portadas de reel
+
+Para los nueve reels que quedan en el feed. Todos arrancan con sujeto y
+afirmación, sin calentamiento (regla 3 bis).
+
+| Reel | Texto de la placa |
+|---|---|
+| Adelanto Primavera-Verano | Lo que viene para esta primavera |
+| La ropa clara y el calor | La ropa clara no te refresca |
+| Corderoy | Obreros, profesores y rockstars usaron la misma tela |
+| El bordó | El color que casi nadie se anima a usar |
+| Colab del abuelo | Mi abuelo se ponía saco para comprar el pan |
+| Colores de ambo | Qué color de ambo comprar primero |
+| El verde | El verde combina con más de lo que creés |
+| Pantalón de ambo | El pantalón de ambo también va solo |
+| 3 tips para comprar online | Tres cosas que mirar antes de comprar online |
+
+Están armados con la descripción de una línea de cada reel. Si alguno no pega
+con lo que se dice adentro, se corrige.
+
+# Preview del feed
+
+https://www.canva.com/d/vKOPZvtPAuD06l_
+
+Nueve casilleros con material existente: tres reels con portada crema y frase,
+tres fotos con planos distintos (cuerpo entero, torso, piernas), dos macros de
+detalle sobre azul noche que le dan peso oscuro a la grilla, y el carrusel del
+saco.
