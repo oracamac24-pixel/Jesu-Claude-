@@ -4,6 +4,15 @@ Ideas en la fórmula que funciona (regla 4 de `CLAUDE.md`): algo que la gente us
 o nombra todos los días sin conocer su contexto. Ninguna verificada todavía; el
 chequeo se hace antes de escribir el guion.
 
+## Pedidos de Jesu, sin desarrollar
+
+- **La historia del lino.** Pedido el 21/10/2026. Distinto del reel del 22/10,
+  que es sobre por qué se arruga. Este sería la historia de la fibra: una de las
+  más antiguas que usó la humanidad. **Sin verificar todavía**, y ojo con el
+  antecedente: el reel del "lino fresco" se cayó porque las fuentes eran blogs
+  de tiendas. Antes de escribirlo hay que conseguir fuente arqueológica o
+  académica de verdad.
+
 ## Con anclaje argentino
 - **La sastrería porteña la hicieron los inmigrantes italianos.** Por qué Buenos
   Aires llegó a tener sastres al nivel de Nápoles. Le da autoridad a Village por
