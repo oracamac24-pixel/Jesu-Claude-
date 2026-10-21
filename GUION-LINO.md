@@ -17,10 +17,15 @@
 > Por eso se arruga a los dos minutos de que te la ponés. No es un defecto: es
 > la fibra haciendo lo que hace.
 >
-> Y es la señal más fácil que tenés. Si una camisa de lino sale del placard
-> impecable, fijate bien qué estás comprando.
+> Porque existe el símil lino. Y no es un engaño: parece lino, cae parecido, y
+> no se arruga. Pero no es lino.
+>
+> Ahí está la decisión. Si no bancás la arruga, comprá símil lino sabiendo que
+> es símil lino. Si querés lino de verdad, la arruga viene incluida.
 >
 > ¿Te molesta la arruga, o te da igual?
+
+**GRABADO el 21/10/2026.**
 
 **Placa crema del sábado 24:** *La arruga es la prueba de que no te vendieron
 otra cosa.*
@@ -48,11 +53,13 @@ fuentes son blogs de tiendas que se contradicen sobre conductividad térmica
 —unos dicen que conduce más calor, otros que menos— y el dato de la "fibra
 hueca" no aparece en ningún estudio. Queda afuera del guion.
 
-### Descartado
+### El bloque del símil lino: sacado y repuesto
 
-**El bloque del símil lino.** Estaba puesto para que el guion no le pegara al
-propio producto de Village, que vende pantalones símil lino. Jesu lo sacó: es
-una segunda idea que diluye, y sin eso el reel queda más corto y más filoso.
+Se sacó el 21/10 por pedido de Jesu, porque diluía. Después pidió volver a
+ponerlo. **La versión grabada lo tiene.**
+
+Sirve además para que el guion no le pegue al propio producto de Village, que
+vende pantalones símil lino: lo deja como una opción distinta, no como una peor.
 
 ## Carril
 
