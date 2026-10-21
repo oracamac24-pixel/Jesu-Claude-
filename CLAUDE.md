@@ -160,3 +160,20 @@ con dos cosas:**
 
 Sin eso, el trabajo queda hecho pero no queda claro, y a los dos días no se
 sabe en qué estaba.
+
+## 12. Lo aprobado va también a Notion
+
+Pedido de Jesu el 21/10/2026. **Cuando da el OK a algo, no alcanza con
+escribirlo en el repo: va también a su Notion.**
+
+El workspace es "Notion de Jesus Camacaro". La base de tareas es
+**"Tareas de la semana"** (`collection://fe36c6a0-7df3-479c-ad6b-56916ea02c32`),
+con propiedades Tarea, Día, Estado, Tipo, Prioridad, Proyecto y Notas.
+
+También existe la página **"Village Polo Club — Sistema visual y bitácora"**,
+que tiene la paleta, la escala tipográfica, la grilla de stories y las
+restricciones técnicas aprendidas. Se consulta antes de inventar nada de
+estética.
+
+**Se guarda solo lo que Jesu aprobó, y solo eso.** El 21/10 se subió también un
+guion que no había pedido y hubo que borrarlo.
