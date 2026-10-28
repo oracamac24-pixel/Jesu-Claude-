@@ -138,3 +138,42 @@ que vale es la 1.
 
 **Pendiente de Jesu:** cargar la foto de producto. El proxy de esta sesión
 bloquea las subidas a Canva (403), así que la imagen la pone él.
+
+---
+
+## Tanda Village Polo Days — 8 placas (28/10)
+
+Formato clonado de "PAUTA DDP". Cada placa es un diseño propio, página 1.
+Todas 1080×1350. **Ninguna toca la v1 de Jesu (`DAHZTAvkLn4`).**
+
+| # | Placa | Canva |
+|---|---|---|
+| 1 | PROMO / VILLAGE / Polo Days / 10% OFF | https://www.canva.com/d/_KtGVcS-UlLViFN |
+| 2 | PACKS / DE / Chombas | https://www.canva.com/d/BZE2WY07TsTdIU2 |
+| 3 | PACKS / DE / Remeras | https://www.canva.com/d/itc79c_iJE5PQ5U |
+| 4 | PACKS / DE / Pantalones | https://www.canva.com/d/WpD1CbFCcVU93TK |
+| 5 | ÚLTIMO DÍA / VILLAGE / Polo Days / TERMINA HOY 23:59 | https://www.canva.com/d/Vhtifzw6rp_kpCn |
+| 6 | PROMO / EXTRA EN / Transferencia / 10% OFF | https://www.canva.com/d/4Wx3AiY6WGN0yrk |
+| 7 | ÚLTIMOS / TALLES / Polo Days | https://www.canva.com/d/Xmfk0edJj2NdPCe |
+| 8 | VOLVÉ / POR LO QUE / Viste (retargeting) | https://www.canva.com/d/razIrUfh8_PqKtg |
+
+**Dos lecturas que hice del pegado de Jesu, por si hay que corregir:**
+
+- La **#1** vino cortada en el mensaje. El bloque que quedó colgando al final
+  de la #3 ("Polo Days / 10% OFF / EN TU PRIMERA COMPRA · CUPÓN VPC / +10%
+  EXTRA EN TRANSFERENCIA / 3 CUOTAS SIN INTERÉS") lo asigné a la #1.
+- La **#8** no tenía prompt, solo la frase. La redacté con la estructura de
+  las otras: VOLVÉ / POR LO QUE / Viste / HASTA EL 4/11 A LAS 23:59 / bloque.
+
+**Lo que sigue sin resolverse y aplica a las ocho:**
+
+1. La serif Didone es todo mayúsculas. "Chombas", "Remeras", "Pantalones",
+   "Transferencia" y "Polo Days" salen en caja alta. Cambiar la fuente a mano
+   si se quiere la caja baja del brief.
+2. **$150.000 vs $100.000.** La pauta de junio decía envío gratis desde
+   $100.000 y 15% OFF en transferencia. Este brief dice $150.000 y +10%.
+3. **El cupón VPC aparece recién ahora.** No estaba en ninguna pieza anterior
+   de octubre. Confirmar que existe y cómo se aplica.
+4. Las fotos de producto las carga Jesu: el proxy de esta sesión bloquea las
+   subidas a Canva.
+5. Las páginas 2 a 4 de cada copia siguen con el contenido del Día del Padre.
