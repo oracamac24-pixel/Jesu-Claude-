@@ -98,3 +98,43 @@ las chombas. El texto y el layout sí se hacen completos desde acá.
 **Criterio para elegir la foto:** vertical, sujeto centrado o levemente a la
 izquierda, con aire arriba —los textos ocupan del 20% al 80% de la altura—, y
 de primavera. Una chomba o una camisa de lino, no abrigo.
+
+---
+
+## Creativo 3 bis — Placa Village Polo Days v2
+
+Armada sobre un brief distinto que le llegó a Jesu el 28/10. **No toca la v1**
+(`DAHZTAvkLn4`), que él ya editó a mano.
+
+Canva: https://www.canva.com/d/ngDSghDzPXvlTZ8 (`DAHZTd5URww`, página 1)
+
+**Texto en la placa:**
+
+```
+LLEGAN LOS        (celeste #accae0, sans extra bold extendida)
+VILLAGE           (sans fina espaciada, crema)
+Polo Days         (serif Didone itálica, crema)
+2 · 3 · 4 NOV     (celeste, sans extra bold extendida)
+PACKS EXCLUSIVOS Y 10% OFF
++10% EXTRA EN TRANSFERENCIA
+3 CUOTAS SIN INTERÉS
+ENVÍO GRATIS DESDE $150.000
+```
+
+**Tres cosas a resolver antes de pautar:**
+
+1. **La serif Didone del template es todo mayúsculas.** "Polo Days" sale
+   "POLO DAYS". Si se quiere la caja baja del brief, hay que cambiar la fuente
+   a mano en Canva (la API no cambia familia tipográfica).
+2. **Los números no coinciden con la pauta de junio.** La placa del Día del
+   Padre decía *envío gratis desde $100.000* y *15% OFF en transferencia*.
+   Este brief dice *$150.000* y *+10% extra*. Hay que confirmar cuál rige.
+3. **"PACKS EXCLUSIVOS Y 10% OFF" cambió la oferta.** El texto anterior decía
+   10% OFF *en tu primera compra*. Así suelto, se lee como 10% en todo. Si no
+   es eso, la línea miente y hay que corregirla.
+
+Las páginas 2 a 4 de esa copia siguen con el contenido del Día del Padre. La
+que vale es la 1.
+
+**Pendiente de Jesu:** cargar la foto de producto. El proxy de esta sesión
+bloquea las subidas a Canva (403), así que la imagen la pone él.
