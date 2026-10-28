@@ -60,3 +60,41 @@ en planos limpios. Queda guardado como banco: después se le agrega voz en off
 para armar creativos nuevos sin volver a grabar.
 
 Es el material que más rinde a futuro, porque desacopla la imagen del guion.
+
+---
+
+## Creativo 3 — Placa Village Polo Days (2 al 4 de noviembre)
+
+Formato clonado de la pauta "PAUTA DDP" (Día del Padre, junio). Mismo layout,
+misma jerarquía, mismos colores de marca. Solo cambian texto y foto.
+
+Canva: https://www.canva.com/d/cL6KS8BLLCaOmkd (`DAHZTAvkLn4`, 1080×1350)
+El original (`DAHLWBqwnXc`) quedó intacto.
+
+**Texto final en la placa:**
+
+```
+llegan los
+VILLAGE POLO
+DAYS
+
+DEL 2 AL 4 DE NOVIEMBRE
+10 % OFF
+en tu primera compra
+
+PACKS EXCLUSIVOS DE CHOMBAS, REMERAS Y PANTALONES
+10% EXTRA PAGANDO POR TRANSFERENCIA
+AGENDALO
+```
+
+**Pendiente de Jesu:** reemplazar la foto de fondo (hoy quedó la del Día del
+Padre, saco negro, invierno) por una de la carpeta #5 de Rodrax en Drive. En
+Canva: clic en la foto → Reemplazar → subir la nueva.
+
+**Por qué no la cargo yo:** el proxy de esta sesión bloquea las subidas a
+Canva (403 en todos los dominios de Canva). Es la misma limitación de ayer con
+las chombas. El texto y el layout sí se hacen completos desde acá.
+
+**Criterio para elegir la foto:** vertical, sujeto centrado o levemente a la
+izquierda, con aire arriba —los textos ocupan del 20% al 80% de la altura—, y
+de primavera. Una chomba o una camisa de lino, no abrigo.
