@@ -177,3 +177,36 @@ Todas 1080×1350. **Ninguna toca la v1 de Jesu (`DAHZTAvkLn4`).**
 4. Las fotos de producto las carga Jesu: el proxy de esta sesión bloquea las
    subidas a Canva.
 5. Las páginas 2 a 4 de cada copia siguen con el contenido del Día del Padre.
+
+---
+
+## Tanda retargeting — 6 placas (28/10)
+
+Mismo formato y misma estructura de seis ranuras que la tanda Polo Days.
+Cada placa es un diseño propio, página 1, 1080×1350.
+
+| # | Placa | Canva |
+|---|---|---|
+| 1 | 10% OFF / CON EL CUPÓN / Cerratucompra | https://www.canva.com/d/JoEXjpNdwIehr2T |
+| 2 | CHOMBAS / DE / Jersey / 11 COLORES | https://www.canva.com/d/zjHIcZH5Hz3jBP7 |
+| 3 | REMERAS / DE / Algodón | https://www.canva.com/d/Ziat26mIngAkInH |
+| 4 | NÁUTICO / DE / Gabardina / 4 COLORES | https://www.canva.com/d/PQMXCQHGjZvPqjU |
+| 5 | ENVÍO / GRATIS DESDE / $150.000 | https://www.canva.com/d/vvl0UYpAQAPoNth |
+| 6 | SI NO TE QUEDA / LO / Cambiás / 30 DÍAS | https://www.canva.com/d/mBaoDSLu6hsxG3T |
+
+Los títulos y bajadas son los que pasó Jesu. El cuerpo de cada copy lo bajé a
+la línea blanca chica de cada placa:
+
+1. LO QUE ELEGISTE TE SIGUE ESPERANDO
+2. SUAVES Y LIVIANAS · DE S A 3XL
+3. CUELLO REDONDO · LOGO BORDADO
+4. CINTURA ELÁSTICA Y CORDÓN
+5. LLEGA EN 2 A 4 DÍAS HÁBILES A TODO EL PAÍS
+6. ¿DUDÁS CON EL TALLE? ESCRIBINOS
+
+**Decisión del 28/10:** los datos que pasa Jesu van como vienen. $150.000 de
+envío gratis y los cupones (VPC, CERRATUCOMPRA) quedan firmes, no se vuelven a
+objetar contra la pauta de junio.
+
+Las fotos de producto las carga Jesu. Páginas 2 a 4 de cada copia siguen con el
+Día del Padre: la que vale es la 1.
