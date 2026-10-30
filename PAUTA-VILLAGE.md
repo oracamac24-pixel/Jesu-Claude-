@@ -210,3 +210,63 @@ objetar contra la pauta de junio.
 
 Las fotos de producto las carga Jesu. Páginas 2 a 4 de cada copia siguen con el
 Día del Padre: la que vale es la 1.
+
+---
+
+## Creativos para grabar — viernes 30/10
+
+Cuatro guiones cerrados. Formato mixto, cada uno con el que mejor le va.
+
+### 1. Polo Days — el paraguas · a cámara, 20s
+
+```
+Tres días. 2, 3 y 4 de noviembre.
+Llegan los Village Polo Days: packs de chombas, remeras y pantalones.
+10% off en tu primera compra con el cupón VPC. Y 10% extra si pagás por
+transferencia.
+Tres cuotas sin interés, y envío gratis desde $150.000.
+Tres días. Después vuelve todo a precio de lista.
+```
+
+### 2. Chombas · tomas mudas + voz en off, 20s
+
+```
+Once colores. De S a 3XL.
+Jersey: suave, liviana, y te la ponés un martes o un sábado igual.
+Durante Polo Days entra en pack.
+2, 3 y 4 de noviembre. Después, precio de lista.
+```
+
+### 3. Remeras y pantalones · producto en movimiento + texto, 20s
+
+```
+La remera que combina con todo y el pantalón que no te aprieta.
+Remera de algodón, cuello redondo, logo bordado.
+Náutico de gabardina: cintura elástica y cordón. Marrón, beige, azul y verde.
+Los dos entran en los packs de Polo Days.
+2, 3 y 4 de noviembre. 10% off con el cupón VPC.
+```
+
+### 4. Retargeting · a cámara, 15s
+
+```
+Lo dejaste en el carrito. Y tu talle todavía está.
+Cerrala con el cupón CERRATUCOMPRA: 10% off.
+Si no te queda, lo cambiás. Tenés 30 días.
+¿Dudás del talle? Escribinos por WhatsApp y te lo decimos nosotros.
+```
+
+### Tomas aisladas
+
+Cada artículo puesto, sin hablar, planos limpios: chomba, remera, pantalón,
+bermuda, camisa de lino. Banco para voz en off, evita volver a grabar.
+
+### Pendiente que afecta al creativo 2
+
+Los modelos de chomba (piqué, con cierre, con vivos) nunca se confirmaron. El
+guion dice solo **jersey**. Con los modelos confirmados, el creativo gana.
+
+### Lo que viene
+
+Jesu está cerrando con los dueños nuevos puntos para el speech de venta. Los
+guiones de pauta se rehacen cuando los pase.
