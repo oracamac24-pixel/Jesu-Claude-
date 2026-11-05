@@ -44,6 +44,10 @@ Jesu tiene déficit de atención. Se pierde rápido con texto largo.
 
 - **Directo.** La respuesta primero. Sin preámbulo, sin recapitular lo ya dicho.
 - **Corto.** Lo mínimo para que se entienda y se pueda ejecutar.
+- **Si pregunta, se contesta y nada más.** Pedido del 5/11/2026. Una pregunta
+  se responde con la respuesta, no con un informe. El resumen y el "en qué
+  quedamos" de la regla 11 son para el trabajo que se entrega, no para cada
+  intercambio.
 - **Siempre el guion corrido.** Cada vez que se trabaja un guion, va escrito de
   corrido, en un bloque, listo para leer a cámara. No en punteos sueltos, no
   solo la lista de cambios. El guion completo, siempre.
