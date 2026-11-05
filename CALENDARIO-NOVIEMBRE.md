@@ -41,3 +41,36 @@ venta.
 marcha. Separar pauta de orgánico permite que cada jornada tenga un solo
 registro —vender o enseñar— y evita que el contenido bueno se queme en una
 semana donde nadie lo va a ver.
+
+---
+
+## Estado de grabación — 5/11/2026
+
+### Grabado
+
+- **Medir la prenda** (voz en off)
+- **Retargeting** (creativo de pauta)
+- **Chombas** (creativo de pauta)
+- **Tomas mudas** de camisas de lino y varias prendas
+
+### Pendiente
+
+| Pieza | Dónde | Nota |
+|---|---|---|
+| Entre dos talles | Local | Necesita la misma prenda en dos talles y una camisa |
+| Símbolos de la etiqueta | Casa | |
+| Cuello de la chomba | Casa | |
+| Remeras y pantalones | Local | **Bloqueado por el modelo, ver abajo** |
+| Tomas mudas de pantalón y bermuda | Local | **Bloqueado por el modelo** |
+
+### Bloqueo nuevo: los pantalones
+
+Jesu no modela pantalones: le quedan muy apretados de pierna. Hay que
+conseguir a alguien flaco de piernas para filmar pantalón y bermuda.
+
+**Qué queda frenado hasta entonces:** el creativo de pauta de remeras y
+pantalones, y las tomas mudas de esas dos prendas.
+
+**Salida provisoria:** el creativo se puede armar solo con remeras, o con
+pantalón en plano de producto sin cuerpo —colgado o apoyado— hasta que
+aparezca el modelo.
