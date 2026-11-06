@@ -17,30 +17,41 @@ Guion o punteo escrito y chequeado. Solo falta cámara.
 | **Símbolos de la etiqueta** | Los cinco símbolos, la cruz, las barras y los puntos | `PUNTEOS-CUIDADO.md` |
 | **Cuello de la chomba** | No se arruinó lavándola: se arruinó colgada | `PUNTEOS-CUIDADO.md` |
 
-### Medir la prenda — guion de voz en off
+### Medir la prenda — guion de voz en off · CERRADO 6/11
 
-> No compres por el talle. Comprá por la medida.
->
-> Agarrá una chomba tuya, la que mejor te queda. Apoyala en la mesa, bien
-> estirada, sin arrugas.
->
-> Y medí de acá a acá. De costura a costura, justo abajo de la manga. Ese
-> número es el ancho de pecho.
->
-> Anotalo. Ese número es tuyo, no es de ninguna marca.
->
-> Ahora medí el largo: del hombro para abajo, hasta el final.
->
-> Con esos dos números comprás online y no fallás. Porque ya no estás
-> comparando tu cuerpo contra una letra. Estás comparando una prenda contra
-> otra.
->
-> Y una prenda no miente.
+Grabado. Jesu filmó las tomas con una chomba apoyada en la mesa y cinco
+medidas: ancho de hombros, ancho de espalda, largo de prenda, abdomen y largo
+de manga.
 
-**Tomas:** seis, todas cenitales, ocho segundos cada una. La prenda cayendo y
-estirándose / la cinta cruzando el pecho de costura a costura / **el número en
-la cinta, legible** / la cinta midiendo el largo / **ese número, legible** / la
-mano anotando. Si los números no se leen, el reel no existe.
+> Te enseño a medir tu talle real en veinte segundos. Guardá el video para
+> cuando compres online.
+>
+> Agarrá la prenda que mejor te queda y apoyala estirada sobre la mesa.
+>
+> La regla es una sola: arrancás en la costura y terminás en la costura.
+>
+> Ancho de hombros. Ancho de espalda. Largo de prenda. Abdomen. Largo de manga.
+>
+> Cinco números. Tuyos, no de ninguna marca.
+>
+> Guardalo. Lo vas a necesitar.
+
+Unas 70 palabras, 20 a 22 segundos leídas tranquilo.
+
+**El gancho es de Jesu** (6/11). Promete tiempo acotado y pide el guardado en
+la primera línea. El pedido se repite al cierre a propósito: el guardado es la
+métrica de esta cuenta —récord 436— y esta pieza es de las que se guardan.
+
+**La regla de la costura** es el corazón del guion y fue el pedido explícito de
+Jesu: toda medida arranca en una costura y termina en una costura. Sin eso los
+cinco números no sirven para comparar contra ninguna tabla.
+
+**Versiones descartadas del gancho:** "No compres por talle, comprá por medida"
+(instructivo, no frena el scroll) y "Te equivocás de talle cada vez que comprás
+online" (acusaba bien pero no prometía nada ni pedía el guardado).
+
+**Ojo:** este guion reemplaza al primero, que tenía solo dos medidas —ancho de
+pecho y largo—. El material filmado tiene cinco.
 
 ### Entre dos talles — guion de voz en off
 
