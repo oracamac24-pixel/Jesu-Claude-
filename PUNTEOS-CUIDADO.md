@@ -65,50 +65,58 @@ nunca se hizo.
 
 ---
 
-## B · Por qué se deforma el cuello de la chomba
+## B · El perchero te arruina el tejido de punto
 
-1. **Gancho:** el cuello de tu chomba no se arruinó lavándola. Se arruinó
-   colgada.
-2. **El punto:** el tejido de punto es una malla de bucles. Estira. Esa es la
-   gracia y también el problema.
-3. **Colgada, la prenda se tira a sí misma.** El peso cuelga del hombro y del
-   cuello, todo el día, todos los días.
-4. **Peor todavía:** colgarla mojada. Pesa el doble y cede el doble.
-5. **El perchero finito** te marca dos puntas en el hombro que no se van más.
-6. **Qué hacer:** doblada, nunca colgada. Agua fría. Secar en plano.
-7. **Cierre:** el algodón no se gastó. Lo estiraste vos, un poquito por día.
+**Reenfocado el 13/11 por Jesu.** Antes era "por qué se deforma el cuello de la
+chomba". Él lo abrió: *"cualquier tejido de punto se daña, así que lo enfocaría
+hacia eso"*. Tiene dos ventajas sobre la versión anterior:
+
+1. **Sirve para todo el placard**, no para una prenda.
+2. **No insinúa que el cuello de la chomba de Village sea flojo.** La versión
+   vieja ponía el defecto sobre el propio producto, que es la misma trampa que
+   hundió el guion de la fábrica.
 
 ### Guion corrido — cerrado 13/11
 
-> El cuello de tu chomba no se arruinó lavándola. Se arruinó colgada.
+> Tenés prendas arruinadas en el placard. Y no fue el lavarropas: fue el
+> perchero.
 >
-> El tejido de punto es una malla de bucles. Estira. Esa es la gracia y también
-> el problema.
+> Todo lo que es tejido de punto —remeras, chombas, sweaters, buzos— es una
+> malla de bucles. Estira. Esa es la gracia y también el problema.
 >
-> Colgada, la prenda se tira a sí misma: todo el peso cuelga del hombro y del
-> cuello, todos los días.
+> Colgado, se tira a sí mismo: todo el peso cuelga del hombro y del cuello,
+> todos los días.
 >
-> Y si la colgás mojada, es peor: con el agua pesa más, y cuanto más pesa, más
+> Y si lo colgás mojado es peor: con el agua pesa más, y cuanto más pesa, más
 > cede.
 >
-> El perchero finito te marca dos puntas en el hombro que no se van más.
+> El perchero finito encima te marca dos puntas en el hombro que no se van más.
 >
-> Doblada. Nunca colgada. Agua fría y a secar en plano.
+> La regla es simple: punto, doblado. Camisa y saco, colgados.
 >
 > El algodón no se gastó. Lo estiraste vos, un poquito por día.
 
-Unas 100 palabras, 30 segundos. **Sin pedido de guardado**, a propósito: cierra
+Unas 105 palabras, 32 segundos. **Sin pedido de guardado**, a propósito: cierra
 mejor con la acusación del gancho dada vuelta.
+
+**Para filmar:** aunque se grabe con una chomba, conviene que aparezca también
+una remera o un buzo, para que se vea que la regla vale para todo el punto.
 
 ### Chequeo
 
 La mecánica —el tejido de punto estira bajo su propio peso mucho más que un
 tejido plano— es una propiedad del material, no un dato de fuente que se pueda
-caer. El resto son recomendaciones de cuidado, no afirmaciones factuales.
+caer. Lo mismo la regla de las dos familias: el punto cede, el plano no, y por
+eso camisas y sacos sí van colgados. El resto son recomendaciones de cuidado,
+no afirmaciones factuales.
 
 **Por qué es seguro:** no hay acá ningún dato histórico ni etimológico que
 pueda resultar falso, que es lo que hundió el guion del corderoy y el de la
 chomba/jumper.
+
+**Sin cifras.** La versión del 13/11 a la mañana decía "pesa el doble" cuando
+se cuelga mojada. Era inventado: el algodón absorbe 25–27% de su peso en agua.
+Reescrito sin número.
 
 ---
 
