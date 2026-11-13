@@ -48,18 +48,18 @@ semana donde nadie lo va a ver.
 
 ### Grabado
 
-- **Medir la prenda** (voz en off)
-- **Retargeting** (creativo de pauta)
-- **Chombas** (creativo de pauta)
-- **Tomas mudas** de camisas de lino y varias prendas
+- **Medir la prenda** (voz en off) — 5/11
+- **Retargeting** (creativo de pauta) — 5/11
+- **Chombas** (creativo de pauta) — 5/11
+- **Tomas mudas** de camisas de lino y varias prendas — 5/11
+- **Símbolos de la etiqueta** — 13/11
+- **Dejá de colgar las chombas** — 13/11
 
 ### Pendiente
 
 | Pieza | Dónde | Nota |
 |---|---|---|
 | Entre dos talles | Local | Necesita la misma prenda en dos talles y una camisa |
-| Símbolos de la etiqueta | Casa | |
-| Cuello de la chomba | Casa | |
 | Remeras y pantalones | Local | **Bloqueado por el modelo, ver abajo** |
 | Tomas mudas de pantalón y bermuda | Local | **Bloqueado por el modelo** |
 
