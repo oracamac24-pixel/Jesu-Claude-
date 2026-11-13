@@ -78,11 +78,10 @@ hacia eso"*. Tiene dos ventajas sobre la versión anterior:
 
 ### Guion corrido — cerrado 13/11
 
-> Tenés prendas arruinadas en el placard. Y no fue el lavarropas: fue el
-> perchero.
+> Dejá de colgar los sweaters.
 >
-> Todo lo que es tejido de punto —remeras, chombas, sweaters, buzos— es una
-> malla de bucles. Estira. Esa es la gracia y también el problema.
+> El tejido de punto —sweaters, chombas de punto, cardigans— es una malla de
+> bucles. Estira. Esa es la gracia y también el problema.
 >
 > Colgado, se tira a sí mismo: todo el peso cuelga del hombro y del cuello,
 > todos los días.
@@ -94,13 +93,25 @@ hacia eso"*. Tiene dos ventajas sobre la versión anterior:
 >
 > La regla es simple: punto, doblado. Camisa y saco, colgados.
 >
-> El algodón no se gastó. Lo estiraste vos, un poquito por día.
+> La prenda no se gastó. La estiraste vos, un poquito por día.
 
-Unas 105 palabras, 32 segundos. **Sin pedido de guardado**, a propósito: cierra
+Unas 95 palabras, 30 segundos. **Sin pedido de guardado**, a propósito: cierra
 mejor con la acusación del gancho dada vuelta.
 
-**Para filmar:** aunque se grabe con una chomba, conviene que aparezca también
-una remera o un buzo, para que se vea que la regla vale para todo el punto.
+**El gancho** son cinco palabras y es una orden contra algo que hace todo el
+mundo. Descartados por largos: *"Tenés prendas arruinadas en el placard y no
+fue el lavarropas, fue el perchero"* y *"El perchero te arruina más ropa que el
+lavarropas"*.
+
+**Dos correcciones de Jesu sobre el vocabulario:**
+
+- **Nada de remeras.** El tema es tejido de punto propiamente dicho —sweaters,
+  chombas de punto, cardigans—, no una remera de jersey.
+- **Nada de "el algodón".** Un sweater puede ser de lana. El cierre dice "la
+  prenda".
+
+**Para filmar:** que aparezca más de una prenda de punto, para que se vea que
+la regla vale para la familia entera y no solo para la chomba.
 
 ### Chequeo
 
