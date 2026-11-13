@@ -38,8 +38,8 @@ siguiente.
 >
 > Y los puntos de la plancha: uno baja, dos media, tres alta.
 >
-> Ahora, el que te arruina la prenda no es el lavado. Es el secado. Buscá el
-> círculo dentro del cuadrado: ese es el secador, y es donde la prenda encoge.
+> Y si te quedás con una sola cosa, que sea esta: lo que encoge la ropa no es
+> el lavarropas. Es el secador.
 >
 > Guardalo, que la próxima vez que compres algo lo vas a necesitar.
 
@@ -155,3 +155,15 @@ que ya habían pasado el chequeo. El chequeo de datos atrapa las afirmaciones
 históricas, pero no atrapa ni los números de relleno ni las contradicciones
 internas. Conviene releer el guion entero una vez más antes de cámara, buscando
 esas dos cosas.
+
+### Corrección del cierre de la etiqueta — 13/11
+
+La versión anterior decía *"buscá el círculo dentro del cuadrado: ese es el
+secador"*. Jesu la frenó: no se entendía.
+
+**El problema no era el dato, era el lugar.** Metía una instrucción técnica
+justo donde iba el remate, y el remate se perdía. El símbolo ya está dicho en
+el beat de los cinco; repetirlo al cierre solo estorba.
+
+El cierre quedó con la idea sola. Si alguna vez se quiere marcar el símbolo,
+va *después* del remate, nunca antes.
