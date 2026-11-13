@@ -22,6 +22,30 @@ siguiente.
 7. **Cierre:** el que te arruina la prenda es el cuadrado, no el balde. El
    secador es donde se encoge.
 
+### Guion corrido — cerrado 13/11
+
+> Nunca miraste ese cuadradito de la etiqueta. Y ahí dice cómo no arruinar la
+> prenda.
+>
+> Son cinco. Balde: lavado. Triángulo: blanqueo. Cuadrado: secado. Plancha:
+> planchado. Círculo: tintorería.
+>
+> Con dos reglas los leés todos.
+>
+> Cruz encima: prohibido. Rayita abajo: ciclo suave.
+>
+> El número adentro del balde es la temperatura máxima. No es una sugerencia.
+>
+> Y los puntos de la plancha: uno baja, dos media, tres alta.
+>
+> El que te arruina la prenda no es el balde. Es el cuadrado: el secador es
+> donde encoge.
+>
+> Guardalo, que la próxima vez que compres algo lo vas a necesitar.
+
+Unas 85 palabras, 27 segundos. Lleva pedido de guardado al cierre, igual que el
+de medir la prenda: es utilidad pura y el guardado es la métrica de la cuenta.
+
 ### Chequeo
 
 Norma **ISO 3758**, vigente, última revisión 2023. Los cinco símbolos base, la
@@ -49,6 +73,27 @@ nunca se hizo.
 5. **El perchero finito** te marca dos puntas en el hombro que no se van más.
 6. **Qué hacer:** doblada, nunca colgada. Agua fría. Secar en plano.
 7. **Cierre:** el algodón no se gastó. Lo estiraste vos, un poquito por día.
+
+### Guion corrido — cerrado 13/11
+
+> El cuello de tu chomba no se arruinó lavándola. Se arruinó colgada.
+>
+> El tejido de punto es una malla de bucles. Estira. Esa es la gracia y también
+> el problema.
+>
+> Colgada, la prenda se tira a sí misma: todo el peso queda del hombro y del
+> cuello, todos los días.
+>
+> Y si la colgás mojada, pesa el doble y cede el doble.
+>
+> El perchero finito te marca dos puntas en el hombro que no se van más.
+>
+> Dobladas. Nunca colgadas. Agua fría y a secar en plano.
+>
+> El algodón no se gastó. Lo estiraste vos, un poquito por día.
+
+Unas 100 palabras, 30 segundos. **Sin pedido de guardado**, a propósito: cierra
+mejor con la acusación del gancho dada vuelta.
 
 ### Chequeo
 
