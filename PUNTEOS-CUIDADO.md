@@ -65,33 +65,35 @@ nunca se hizo.
 
 ---
 
-## B · El perchero te arruina el tejido de punto
+## B · Dejá de colgar las chombas
 
-**Reenfocado el 13/11 por Jesu.** Antes era "por qué se deforma el cuello de la
-chomba". Él lo abrió: *"cualquier tejido de punto se daña, así que lo enfocaría
-hacia eso"*. Tiene dos ventajas sobre la versión anterior:
+**El foco es la chomba.** Es el producto de Village y es el sujeto del guion de
+punta a punta. El resto del tejido de punto —sweaters, cardigans— aparece una
+sola vez, en la regla, para que se entienda que no es un problema de una sola
+prenda.
 
-1. **Sirve para todo el placard**, no para una prenda.
-2. **No insinúa que el cuello de la chomba de Village sea flojo.** La versión
-   vieja ponía el defecto sobre el propio producto, que es la misma trampa que
-   hundió el guion de la fábrica.
+Dos versiones intermedias quedaron afuera: la original hablaba solo del cuello
+de la chomba (demasiado angosta, y además insinuaba que el cuello del propio
+producto es flojo) y la siguiente puso a los sweaters de protagonistas
+(demasiado ancha, perdía el producto).
 
 ### Guion corrido — cerrado 13/11
 
-> Dejá de colgar los sweaters.
+> Dejá de colgar las chombas.
 >
-> El tejido de punto —sweaters, chombas de punto, cardigans— es una malla de
-> bucles. Estira. Esa es la gracia y también el problema.
+> La chomba es tejido de punto: una malla de bucles. Estira. Esa es la gracia y
+> también el problema.
 >
-> Colgado, se tira a sí mismo: todo el peso cuelga del hombro y del cuello,
+> Colgada, se tira a sí misma: todo el peso cuelga del hombro y del cuello,
 > todos los días.
 >
-> Y si lo colgás mojado es peor: con el agua pesa más, y cuanto más pesa, más
+> Y si la colgás mojada es peor: con el agua pesa más, y cuanto más pesa, más
 > cede.
 >
 > El perchero finito encima te marca dos puntas en el hombro que no se van más.
 >
-> La regla es simple: punto, doblado. Camisa y saco, colgados.
+> La regla vale para todo el punto —chombas, sweaters, cardigans—: doblados.
+> Camisa y saco, colgados.
 >
 > La prenda no se gastó. La estiraste vos, un poquito por día.
 
@@ -103,15 +105,12 @@ mundo. Descartados por largos: *"Tenés prendas arruinadas en el placard y no
 fue el lavarropas, fue el perchero"* y *"El perchero te arruina más ropa que el
 lavarropas"*.
 
-**Dos correcciones de Jesu sobre el vocabulario:**
+**Vocabulario, corregido por Jesu:**
 
-- **Nada de remeras.** El tema es tejido de punto propiamente dicho —sweaters,
-  chombas de punto, cardigans—, no una remera de jersey.
-- **Nada de "el algodón".** Un sweater puede ser de lana. El cierre dice "la
+- **Nada de remeras.** El tema es tejido de punto, no una remera de jersey.
+- **Nada de "el algodón"** en el cierre: un sweater puede ser de lana. Dice "la
   prenda".
-
-**Para filmar:** que aparezca más de una prenda de punto, para que se vea que
-la regla vale para la familia entera y no solo para la chomba.
+- **La chomba manda.** No se la puede desplazar por el sweater.
 
 ### Chequeo
 
