@@ -41,6 +41,10 @@ siguiente.
 > Y si te quedás con una sola cosa, que sea esta: lo que encoge la ropa no es
 > el lavarropas. Es el secador.
 >
+> En la etiqueta el secador es el círculo adentro del cuadrado. Cruz encima:
+> esa prenda no va a secadora. Y si tiene puntos adentro, uno es temperatura
+> baja y dos es normal.
+>
 > Guardalo, que la próxima vez que compres algo lo vas a necesitar.
 
 Unas 85 palabras, 27 segundos. Lleva pedido de guardado al cierre, igual que el
@@ -167,3 +171,28 @@ el beat de los cinco; repetirlo al cierre solo estorba.
 
 El cierre quedó con la idea sola. Si alguna vez se quiere marcar el símbolo,
 va *después* del remate, nunca antes.
+
+### El cierre de la etiqueta, versión final — 13/11
+
+Tres vueltas hasta dar con el orden.
+
+1. *"El que te arruina la prenda no es el balde, es el cuadrado."* — **mal**: el
+   cuadrado es secado en general, no la secadora.
+2. *"Buscá el círculo dentro del cuadrado, ese es el secador."* — **correcto
+   pero ilegible**: la instrucción tapaba el remate.
+3. **Final:** primero el remate, después la especificación del símbolo.
+
+> lo que encoge la ropa no es el lavarropas, es el secador → el secador es el
+> círculo adentro del cuadrado → cruz encima, no va a secadora → puntos: uno
+> baja, dos normal.
+
+**Confirmado contra ISO 3758:** el círculo inscripto en el cuadrado es el
+secado en tambor, y los puntos marcan temperatura reducida (uno) y normal
+(dos).
+
+**Fuera del guion:** las rayitas dentro del cuadrado para secado al aire
+—vertical para colgar, horizontal para secar en plano—. Están en la norma pero
+no se pudieron verificar contra su texto. No van a cámara.
+
+**La regla que deja este cierre:** el dato técnico va *después* del remate.
+Antes, lo mata.
