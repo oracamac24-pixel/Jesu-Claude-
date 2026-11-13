@@ -24,7 +24,7 @@ siguiente.
 
 ### Guion corrido — cerrado 13/11
 
-> Nunca miraste ese cuadradito de la etiqueta. Y ahí dice cómo no arruinar la
+> Nunca miraste los dibujitos de la etiqueta. Y ahí dice cómo no arruinar la
 > prenda.
 >
 > Son cinco. Balde: lavado. Triángulo: blanqueo. Cuadrado: secado. Plancha:
@@ -38,8 +38,8 @@ siguiente.
 >
 > Y los puntos de la plancha: uno baja, dos media, tres alta.
 >
-> El que te arruina la prenda no es el balde. Es el cuadrado: el secador es
-> donde encoge.
+> Ahora, el que te arruina la prenda no es el lavado. Es el secado. Buscá el
+> círculo dentro del cuadrado: ese es el secador, y es donde la prenda encoge.
 >
 > Guardalo, que la próxima vez que compres algo lo vas a necesitar.
 
@@ -81,14 +81,15 @@ nunca se hizo.
 > El tejido de punto es una malla de bucles. Estira. Esa es la gracia y también
 > el problema.
 >
-> Colgada, la prenda se tira a sí misma: todo el peso queda del hombro y del
+> Colgada, la prenda se tira a sí misma: todo el peso cuelga del hombro y del
 > cuello, todos los días.
 >
-> Y si la colgás mojada, pesa el doble y cede el doble.
+> Y si la colgás mojada, es peor: con el agua pesa más, y cuanto más pesa, más
+> cede.
 >
 > El perchero finito te marca dos puntas en el hombro que no se van más.
 >
-> Dobladas. Nunca colgadas. Agua fría y a secar en plano.
+> Doblada. Nunca colgada. Agua fría y a secar en plano.
 >
 > El algodón no se gastó. Lo estiraste vos, un poquito por día.
 
@@ -123,3 +124,34 @@ respirar" no tiene corte publicado. Dar un número sería inventarlo.
 
 Queda vivo solo el punto 2 (la fibra que más hay va primero), y con eso no se
 hace un reel.
+
+---
+
+## Correcciones del 13/11, antes de grabar
+
+Revisión pedida por Jesu con los dos guiones ya cerrados. Cinco errores, dos de
+fondo.
+
+### De fondo
+
+1. **"Pesa el doble" (chomba) era falso.** El algodón absorbe 25–27% de su peso
+   en agua, no el 100% (dato ya verificado en `GUION-BLANCO-NEGRO.md`). Era un
+   número inventado. Reescrito sin cifra: *con el agua pesa más, y cuanto más
+   pesa, más cede*.
+2. **"El cuadrado es el secador" (etiqueta) era incorrecto.** En ISO 3758 el
+   cuadrado es **secado en general**, incluido el secado al aire. El secador de
+   tambor es el **círculo dentro del cuadrado**. Como estaba, el cierre
+   contradecía el beat 2 del propio guion.
+
+### De forma
+
+3. "El peso **queda** del hombro" → *cuelga*.
+4. "Dobladas / colgadas" en plural, con el resto del guion en singular.
+5. "Ese cuadradito" en el gancho de la etiqueta se pisaba con el símbolo
+   cuadrado. Cambiado por "los dibujitos".
+
+**Lo que confirma esta revisión:** los dos errores de fondo estaban en guiones
+que ya habían pasado el chequeo. El chequeo de datos atrapa las afirmaciones
+históricas, pero no atrapa ni los números de relleno ni las contradicciones
+internas. Conviene releer el guion entero una vez más antes de cámara, buscando
+esas dos cosas.
