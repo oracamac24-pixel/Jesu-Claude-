@@ -114,12 +114,11 @@ contenido; la edición no tiene que notarse.
 
 - **Corte seco, siempre.** Nada de fundidos, zooms, giros ni efectos de
   transición. Cuando termina un plano empieza el otro, y listo.
-- **No cortes a mitad de palabra.** Dejá que la frase termine. Un corte apurado
-  se siente más que uno de más.
-- **Dejá respirar.** Medio segundo de aire antes y después de cada frase. El
-  video no tiene que sentirse acelerado.
-- **Sacá los silencios largos, no todos.** Si cortás cada pausa, volvés a sonar
-  a publicidad.
+- **Sin silencios.** Se corta todo el aire muerto: las pausas, las dudas, el
+  arranque de cada frase. Cada segundo vacío es un segundo que el que mira usa
+  para irse.
+- **No cortes a mitad de palabra.** Apretado no es atropellado: la frase
+  termina, y recién ahí entra la siguiente.
 
 ### Imagen
 
@@ -143,12 +142,13 @@ contenido; la edición no tiene que notarse.
 
 ### Sonido
 
-- **Música bien de fondo, al 10% de volumen como máximo.** Tiene que estar sin
-  que se note. Si en algún momento compite con tu voz, está alta.
-- **Tu voz es lo que manda.** Grabá en un momento tranquilo del local, sin
-  ruido de gente ni de calle.
-- **Sin efectos de sonido.** Ni whooshes, ni clicks, ni nada que marque un
-  corte.
+- **Sin música.** Ninguno de los tres lleva pista de fondo. Nada.
+- **Sonidos sí, si son contextuales.** Un sonido corto que acompañe lo que pasa
+  en pantalla —la tela, un corte, el perchero— está bien. Mínimos y pocos.
+- **Esos sonidos van al 10% de volumen.** Tienen que estar sin que se note. Si
+  compiten con tu voz, están altos.
+- **Tu voz manda.** Grabá en un momento tranquilo del local, sin ruido de gente
+  ni de calle.
 
 ---
 
@@ -207,3 +207,22 @@ primer creador es amigo suyo.
 
 **La regla que queda:** en el contenido de talle grande se habla de la prenda y
 del talle, nunca del cuerpo de quien la usa.
+
+## Corrección del 18/11, sobre edición
+
+Dos cosas del apartado de edición estaban al revés de lo que quiere Village.
+
+**Los cortes van sin silencio.** La versión anterior pedía "dejar respirar" y
+"sacar los silencios largos, no todos", con el argumento de que si no suena a
+publicidad. El criterio de la marca es el opuesto: *"no nos gustan esos
+silencios, se pierde tiempo y la gente skipea"*. Se corta todo el aire muerto.
+Lo único que se conserva es no cortar a mitad de palabra.
+
+**No va música, y los sonidos sí.** La versión anterior ponía la música de
+fondo al 10% y prohibía los efectos. Es al revés:
+
+- **Música: ninguna.** En los tres videos.
+- **Efectos: sí**, siempre que sean mínimos y contextuales. No están mal por ser
+  efectos; están mal cuando son decorativos.
+- **El 10% de volumen aplica a esos sonidos**, no a una pista musical que ya no
+  existe.
