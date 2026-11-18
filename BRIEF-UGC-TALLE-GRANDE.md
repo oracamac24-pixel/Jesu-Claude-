@@ -2,18 +2,17 @@
 
 **Fecha:** jueves, en el local.
 **Formato:** tres videos verticales.
-**Para:** creador UGC.
+**Para:** @therubenshot.
 
 ---
 
 ## Por qué te convocamos
 
-Village vende hasta 3XL y hasta talle 54, y casi nadie lo sabe. El público que
-usa esos talles está acostumbrado a que la ropa no le entre, o a que cuando le
-entra sea lo único que había.
+Village llega hasta 3XL, y en pantalones hasta talle 60. Casi nadie lo sabe, y
+es de las cosas que más nos preguntan.
 
-No te llamamos para que actúes de cliente. Te llamamos porque sos de ese
-público y lo que digas vale precisamente por eso.
+Te convocamos porque sabés hacer esto, y porque cuando algo te queda bien se
+nota. Eso no se fabrica en un estudio.
 
 **Hablá como hablás.** Si suena a publicidad leída, perdimos lo único que
 fuimos a buscar.
@@ -36,9 +35,8 @@ Tres cosas que ayudan:
   tercera suele salir suelta porque ya te olvidaste del brief.
 - **No busques quedar perfecto.** Un "eh" o una pausa no arruinan nada: hacen
   que te crean.
-- **Hablá de tu cuerpo sin vueltas.** Decir cuánto medís y cuánto pesás es lo
-  que hace que el que mira se sienta identificado. Si lo esquivás, el video no
-  sirve.
+- **Decí el talle que usás.** Es el dato que hace que del otro lado alguien
+  piense "entonces a mí también me entra". Con eso alcanza.
 
 ---
 
@@ -50,7 +48,7 @@ Tres cosas que ayudan:
 
 **Arranque, tal cual:**
 
-> Uno noventa y cinco, más de cien kilos. Mis tres de este verano.
+> Uno noventa y cinco, talle 3XL. Mis tres de este verano.
 
 **Después:** mostrás tres prendas, una por una. **Las elegís vos**, las que de
 verdad te gustaron. Si te las elegimos nosotros se nota en cámara.
@@ -60,11 +58,11 @@ la diferencia entre un video que sirve y uno que no:
 
 | No sirve | Sirve |
 | --- | --- |
-| "Me encanta el color" | "No se me pega en la panza" |
-| "Está buenísima" | "La manga me llega donde tiene que llegar" |
+| "Me encanta el color" | "La manga me llega justo, no me queda tres cuartos" |
+| "Está buenísima" | "El hombro cae donde tiene que caer" |
 | "Muy cómoda" | "No me queda corta de largo, que es lo que siempre me pasa" |
 
-**Cierre:** decís qué talle usás. Sin eufemismos, como un dato más.
+**Cierre:** decís qué talle usás, como un dato más.
 
 ---
 
@@ -96,9 +94,9 @@ la diferencia entre un video que sirve y uno que no:
 
 > En mi talle casi nunca puedo elegir.
 
-**Después:** el tema es que el problema de comprar talle grande no es sólo que
-no te entre. Es que cuando te entra, era lo único que había. Color feo, modelo
-feo, pero entraba.
+**Después:** el problema del talle grande no es sólo encontrarlo. Es que cuando
+lo encontrás, era lo único que había: un color que no elegías y un modelo que
+tampoco.
 
 Mostrá que acá hay colores y modelos distintos **en tu talle**: que elegiste,
 no que te conformaste.
@@ -182,3 +180,30 @@ contenido; la edición no tiene que notarse.
   una semana.
 - **No digas que algo "hay siempre" o "hay en todos los talles".** El stock se
   mueve y no queremos prometer lo que después no está.
+
+---
+
+## Corrección del 18/11
+
+La primera versión de este brief estaba escrita como si el tema fuera el cuerpo
+del creador. Jesu la frenó: *"noto demasiado comentario haciendo referencia a
+panza y a cosas del cuerpo que está feo leer"*, y sobre la introducción,
+*"me parece muy fuerte el te buscamos por gordo"*. Tenía razón. Además el
+primer creador es amigo suyo.
+
+**El tema es que la ropa le queda bien, no su cuerpo.** Qué cambió:
+
+- **La introducción** ya no dice que lo convocamos por pertenecer a ese público.
+  Dice que Village llega hasta 3XL y hasta talle 60 en pantalones, que casi
+  nadie lo sabe, y que lo convocamos porque sabe hacer esto.
+- **"Hablá de tu cuerpo sin vueltas"** salió. En su lugar: decí el talle que
+  usás, que es el dato útil para el que mira.
+- **"No se me pega en la panza"** salió de la tabla de ejemplos. Los ejemplos
+  ahora describen la prenda: dónde cae el hombro, dónde llega la manga.
+- **El gancho del video 1** pasó de "más de cien kilos" a "talle 3XL". Misma
+  credibilidad inmediata, pero es un dato de producto.
+
+**Dato de producto corregido:** los pantalones llegan hasta talle 60, no 54.
+
+**La regla que queda:** en el contenido de talle grande se habla de la prenda y
+del talle, nunca del cuerpo de quien la usa.
