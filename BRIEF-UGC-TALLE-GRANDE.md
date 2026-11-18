@@ -135,10 +135,13 @@ contenido; la edición no tiene que notarse.
 
 - **La tipografía te la pasamos nosotros.** No uses las fuentes que vienen por
   defecto en el editor.
-- **Usala poco.** Texto en pantalla sólo donde suma: el talle que usás, el
-  nombre de una prenda. No subtitules todo.
-- **Sin animaciones de texto.** Aparece y se va. Nada de rebotes ni palabras
-  que entran de a una.
+- **Subtitulado completo.** Los tres videos van subtitulados de punta a punta.
+  La mayoría los va a ver sin sonido.
+- **Revisá la ortografía antes de exportar.** El subtítulo automático escribe
+  mal los nombres de prenda y los talles. Leelo entero: un "3XL" mal escrito en
+  pantalla nos deja mal a los dos.
+- **Animaciones, sólo para destacar.** Una palabra o un dato que importe puede
+  entrar animado, y siempre acompañado por un sonido. Nunca todo el subtítulo.
 
 ### Sonido
 
@@ -154,13 +157,11 @@ contenido; la edición no tiene que notarse.
 
 ## El día de la grabación
 
-- Vamos a tener las prendas en tu talle separadas y listas antes de que
-  llegues.
+- **Las prendas las elegimos juntos ahí.** No vamos a tener nada separado de
+  antes: recorrés el local, ves qué te gusta y lo definimos en el momento.
 - Probate todo con calma antes de grabar. **Si algo no te queda bien, decilo.**
   Preferimos cambiar la prenda o bajar un video antes que grabar algo que no se
   sostiene.
-- Calculá que entre probarse, elegir y grabar las tomas se va alrededor de una
-  hora y media.
 
 ---
 
@@ -226,3 +227,16 @@ fondo al 10% y prohibía los efectos. Es al revés:
   efectos; están mal cuando son decorativos.
 - **El 10% de volumen aplica a esos sonidos**, no a una pista musical que ya no
   existe.
+
+## Correcciones del 18/11, segunda tanda
+
+**Subtítulos en los tres videos.** La versión anterior decía "no subtitules
+todo". Es al revés: van subtitulados de punta a punta, porque la mayoría los ve
+sin sonido. Y se revisa la ortografía antes de exportar, que es donde el
+subtítulo automático rompe los nombres de prenda y los talles.
+
+**Las animaciones de texto sí van**, pero sólo para destacar algo importante y
+siempre acompañadas por un sonido. Antes estaban prohibidas.
+
+**No hay prendas elegidas de antemano.** Se eligen en el local, en el momento,
+entre los dos. Y se saca cualquier estimación de cuánto dura la jornada.
